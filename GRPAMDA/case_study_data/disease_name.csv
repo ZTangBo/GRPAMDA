@@ -1,0 +1,384 @@
+,number,disease
+1,[[1]],"['Abortion, Habitual']"
+2,[[2]],['Acquired Immunodeficiency Syndrome']
+3,[[3]],['ACTH-Secreting Pituitary Adenoma']
+4,[[4]],['Acute Coronary Syndrome']
+5,[[5]],['Acute Lung Injury']
+6,[[6]],['Adenocarcinoma']
+7,[[7]],['Adenoma']
+8,[[8]],['Adenoviridae Infections']
+9,[[9]],['Adrenal Cortex Neoplasms']
+10,[[10]],['Adrenocortical Adenoma']
+11,[[11]],['Adrenocortical Carcinoma']
+12,[[12]],['Aging']
+13,[[13]],['AIDS Dementia Complex']
+14,[[14]],['Albuminuria']
+15,[[15]],['Alopecia']
+16,[[16]],['Alzheimer Disease']
+17,[[17]],['Amyloidosis']
+18,[[18]],['Amyotrophic Lateral Sclerosis']
+19,[[19]],"['Anemia, Sickle Cell']"
+20,[[20]],"['Angina, Unstable']"
+21,[[21]],['Anoxia']
+22,[[22]],['Antiphospholipid Syndrome']
+23,[[23]],['Anus Neoplasms']
+24,[[24]],['Anxiety Disorders']
+25,[[25]],"['Aortic Aneurysm, Abdominal']"
+26,[[26]],"['Aortic Aneurysm, Thoracic']"
+27,[[27]],['Aortic Valve Insufficiency']
+28,[[28]],['Aortic Valve Stenosis']
+29,[[29]],"['Arrhythmias, Cardiac']"
+30,[[30]],['Arthritis']
+31,[[31]],"['Arthritis, Psoriatic']"
+32,[[32]],"['Arthritis, Rheumatoid']"
+33,[[33]],['Asthma']
+34,[[34]],['Astrocytoma']
+35,[[35]],['Atherosclerosis']
+36,[[36]],['Atrial Fibrillation']
+37,[[37]],['Atrophy']
+38,[[38]],['Autistic Disorder']
+39,[[39]],['Autoimmune Diseases']
+40,[[40]],['Azoospermia']
+41,[[41]],['Barrett Esophagus']
+42,[[42]],['Behcet Syndrome']
+43,[[43]],['Biliary Atresia']
+44,[[44]],['Biliary Tract Neoplasms']
+45,[[45]],['Bladder Neoplasms']
+46,[[46]],['Brain Injuries']
+47,[[47]],['Brain Injury']
+48,[[48]],['Brain Ischemia']
+49,[[49]],['Brain Neoplasms']
+50,[[50]],['Breast Neoplasms']
+51,[[51]],['Burkitt Lymphoma']
+52,[[52]],['Burns']
+53,[[53]],['Carcinoma']
+54,[[54]],"['Carcinoma, Basal Cell']"
+55,[[55]],"['Carcinoma, Ductal, Breast']"
+56,[[56]],"['Carcinoma, Ehrlich Tumor']"
+57,[[57]],"['Carcinoma, Embryonal']"
+58,[[58]],"['Carcinoma, Endometrioid']"
+59,[[59]],"['Carcinoma, Hepatocellular']"
+60,[[60]],"['Carcinoma, Neuroendocrine']"
+61,[[61]],"['Carcinoma, Non-Small-Cell Lung']"
+62,[[62]],"['Carcinoma, Oral']"
+63,[[63]],"['Carcinoma, Renal Cell']"
+64,[[64]],"['Carcinoma, Small Cell']"
+65,[[65]],"['Carcinoma, Squamous Cell']"
+66,[[66]],['Cardiomegaly']
+67,[[67]],['Cardiomyopathies']
+68,[[68]],"['Cardiomyopathy, Dilated']"
+69,[[69]],"['Cardiomyopathy, Hypertrophic']"
+70,[[70]],['Cardiovascular Diseases']
+71,[[71]],['Carotid Artery Diseases']
+72,[[72]],['Cataract']
+73,[[73]],['Central Nervous System Diseases']
+74,[[74]],['Cerebellar Neoplasms']
+75,[[75]],['Cerebral Hemorrhage']
+76,[[76]],['Cerebral Infarction']
+77,[[77]],['Cerebral Ischemia']
+78,[[78]],['Cervical Intraepithelial Neoplasia']
+79,[[79]],['Cervical Neoplasms']
+80,[[80]],"['Child Development Disorders, Pervasive']"
+81,[[81]],['Chlamydia Infections']
+82,[[82]],['Cholangiocarcinoma']
+83,[[83]],['Cholesteatoma']
+84,[[84]],['Chondrodysplasia Punctata']
+85,[[85]],['Chordoma']
+86,[[86]],['Choriocarcinoma']
+87,[[87]],['Cicatrix']
+88,[[88]],['Cocaine-Related Disorders']
+89,[[89]],['Colitis']
+90,[[90]],"['Colitis, Ulcerative']"
+91,[[91]],['Colon Neoplasms']
+92,[[92]],['Colonic Neoplasms']
+93,[[93]],['Colorectal Neoplasms']
+94,[[94]],"['Colorectal Neoplasms, Hereditary Nonpolyposis']"
+95,[[95]],['Coronary Artery Disease']
+96,[[96]],['Creutzfeldt-Jakob Syndrome']
+97,[[97]],['Crohn Disease']
+98,[[98]],['Cryptosporidium']
+99,[[99]],['Cystic Fibrosis']
+100,[[100]],"['Cystitis, Interstitial']"
+101,[[101]],['Dementia']
+102,[[102]],['Demyelinating Diseases']
+103,[[103]],"['Dermatitis, Atopic']"
+104,[[104]],['Diabetes Complications']
+105,[[105]],['Diabetes Mellitus']
+106,[[106]],"['Diabetes Mellitus, Type 1']"
+107,[[107]],"['Diabetes Mellitus, Type 2']"
+108,[[108]],['Diabetic Nephropathies']
+109,[[109]],['Diabetic Retinopathy']
+110,[[110]],['Digestive System Neoplasms']
+111,[[111]],['Distal Myopathies']
+112,[[112]],['Down Syndrome']
+113,[[113]],['Drug-Induced Liver Injury']
+114,[[114]],['Dyslipidemias']
+115,[[115]],['Dyspepsia']
+116,[[116]],['Eclampsia']
+117,[[117]],['Eczema']
+118,[[118]],"['Encephalomyelitis, Autoimmune, Experimental']"
+119,[[119]],['Endometrial Neoplasms']
+120,[[120]],['Endometriosis']
+121,[[121]],['Endomyocardial Fibrosis']
+122,[[122]],"['Endothelium, Vascular']"
+123,[[123]],['Eosinophilic Esophagitis']
+124,[[124]],['Ependymoma']
+125,[[125]],['Erythropoiesis']
+126,[[126]],['Esophageal Neoplasms']
+127,[[127]],['Esophagus']
+128,[[128]],['Eye Abnormalities']
+129,[[129]],['Fanconi Anemia']
+130,[[130]],['Fatty Liver']
+131,[[131]],"['Fatty Liver, Alcoholic']"
+132,[[132]],"['Fatty Liver, Non-Alcoholic']"
+133,[[133]],['Fibroblasts']
+134,[[134]],['Fibrosarcoma']
+135,[[135]],['Fibrosis']
+136,[[136]],['Focal Epithelial Hyperplasia']
+137,[[137]],['Fragile X Syndrome']
+138,[[138]],['Francisella']
+139,[[139]],['Frontotemporal Lobar Degeneration']
+140,[[140]],['Gastric Neoplasms']
+141,[[141]],"['Gastritis, Atrophic']"
+142,[[142]],['Gastrointestinal Neoplasms']
+143,[[143]],['Gerstmann-Straussler-Scheinker Disease']
+144,[[144]],['Giant Cell Tumors']
+145,[[145]],['Glioblastoma']
+146,[[146]],['Glioblastoma ']
+147,[[147]],['Glioma']
+148,[[148]],['Glomerulonephritis']
+149,[[149]],"['Glomerulonephritis, IGA']"
+150,[[150]],['Gout']
+151,[[151]],['Graft vs Host Disease']
+152,[[152]],['Granulosa Cell Tumor']
+153,[[153]],['Graves Disease']
+154,[[154]],"['Hamartoma Syndrome, Multiple']"
+155,[[155]],"['Hand, Foot and Mouth Disease']"
+156,[[156]],['HBV Infection']
+157,[[157]],['HCMV Infection']
+158,[[158]],['HCV']
+159,[[159]],['Head and Neck Neoplasms']
+160,[[160]],['Hearing Loss']
+161,[[161]],"['Heart Defects, Congenital']"
+162,[[162]],['Heart Diseases']
+163,[[163]],['Heart Failure']
+164,[[164]],"['Helplessness, Learned']"
+165,[[165]],['Hemangioma']
+166,[[166]],['Hemangiosarcoma']
+167,[[167]],['Hematologic Neoplasms']
+168,[[168]],['Hepatitis']
+169,[[169]],['Hepatitis B']
+170,[[170]],"['Hepatitis B, Chronic']"
+171,[[171]],['Hepatitis C']
+172,[[172]],"['Hepatitis C, Chronic']"
+173,[[173]],"['Hepatitis, Chronic']"
+174,[[174]],['Hepatoblastoma']
+175,[[175]],['HEV']
+176,[[176]],['HIV']
+177,[[177]],['HIV Infection']
+178,[[178]],['HIV Infections']
+179,[[179]],['HIV-1']
+180,[[180]],['Hodgkin Disease']
+181,[[181]],['HPV Infection']
+182,[[182]],['Huntington Disease']
+183,[[183]],['Hyperglycemia']
+184,[[184]],['Hyperlipidemias']
+185,[[185]],['Hypertension']
+186,[[186]],['Hypertrophy']
+187,[[187]],"['Hypertrophy, Left Ventricular']"
+188,[[188]],['Hypopharyngeal Neoplasms']
+189,[[189]],"['Hypoxia-Ischemia, Brain']"
+190,[[190]],"['Infertility, Male']"
+191,[[191]],['Inflammation']
+192,[[192]],['Inflammatory Bowel Diseases']
+193,[[193]],"['Influenza, Human']"
+194,[[194]],['Intellectual Disability']
+195,[[195]],['Intervertebral Disk']
+196,[[196]],['Intracranial Aneurysm']
+197,[[197]],['Irritable Bowel Syndrome']
+198,[[198]],['Ischemia']
+199,[[199]],['Ischemic Preconditioning']
+200,[[200]],['Keloid']
+201,[[201]],['Keratoconus']
+202,[[202]],['Kidney Diseases']
+203,[[203]],"['Kidney Failure, Acute']"
+204,[[204]],"['Kidney Failure, Chronic']"
+205,[[205]],['Kidney Neoplasms']
+206,[[206]],['Laryngeal Neoplasms']
+207,[[207]],['Leiomyoma']
+208,[[208]],['Leiomyosarcoma']
+209,[[209]],['Leprosy']
+210,[[210]],['Leukemia']
+211,[[211]],"['Leukemia, Acute']"
+212,[[212]],"['Leukemia, B-Cell']"
+213,[[213]],"['Leukemia, Biphenotypic, Acute']"
+214,[[214]],"['Leukemia, lymphoblastic, Acute']"
+215,[[215]],"['Leukemia, lymphoblastic, Chronic']"
+216,[[216]],"['Leukemia, Lymphocytic, Chronic, B-Cell']"
+217,[[217]],"['Leukemia, Myelogenous, Chronic, BCR-ABL Positive']"
+218,[[218]],"['Leukemia, Myeloid']"
+219,[[219]],"['Leukemia, Myeloid, Acute']"
+220,[[220]],"['Leukemia, Myeloid, Chronic-Phase']"
+221,[[221]],"['Leukemia, Promyelocytic, Acute']"
+222,[[222]],"['Leukemia-Lymphoma, Adult T-Cell']"
+223,[[223]],"['Leukoplakia, Oral']"
+224,[[224]],"['Lichen Planus, Oral']"
+225,[[225]],['Lipid Metabolism Disorders']
+226,[[226]],['Liposarcoma']
+227,[[227]],['Liver Cirrhosis']
+228,[[228]],"['Liver Cirrhosis, Biliary']"
+229,[[229]],['Liver Diseases']
+230,[[230]],"['Liver Diseases, Alcoholic']"
+231,[[231]],['Liver Failure']
+232,[[232]],['Liver Neoplasms']
+233,[[233]],['Long QT Syndrome']
+234,[[234]],['Lung Diseases']
+235,[[235]],"['Lung Diseases, Interstitial']"
+236,[[236]],['Lung Neoplasms']
+237,[[237]],"['Lupus Erythematosus, Systemic']"
+238,[[238]],['Lupus Nephritis']
+239,[[239]],['Lupus Vulgaris']
+240,[[240]],['Lymphoma']
+241,[[241]],"['Lymphoma, B-Cell']"
+242,[[242]],"['Lymphoma, Extranodal NK-T-Cell']"
+243,[[243]],"['Lymphoma, Large B-Cell, Diffuse']"
+244,[[244]],"['Lymphoma, Large-Cell, Anaplastic']"
+245,[[245]],"['Lymphoma, Mantle-Cell']"
+246,[[246]],"['Lymphoma, Non-Hodgkin']"
+247,[[247]],"['Lymphoma, Primary Effusion']"
+248,[[248]],"['Lymphoma, T-Cell']"
+249,[[249]],['Lymphoproliferative Disorders']
+250,[[250]],['Marek Disease']
+251,[[251]],"['Mastocytosis, Systemic']"
+252,[[252]],['Medulloblastoma']
+253,[[253]],['Melanoma']
+254,[[254]],['Meningioma']
+255,[[255]],['Mesothelioma']
+256,[[256]],['Metabolic Diseases']
+257,[[257]],['Mouth Neoplasms']
+258,[[258]],['Moyamoya Disease']
+259,[[259]],['Multiple Endocrine Neoplasia Type 1']
+260,[[260]],['Multiple Myeloma']
+261,[[261]],['Multiple Sclerosis']
+262,[[262]],"['Muscular Disorders, Atrophic']"
+263,[[263]],['Muscular Dystrophies']
+264,[[264]],"['Muscular Dystrophy, Duchenne']"
+265,[[265]],"['Muscular Dystrophy, Facioscapulohumeral']"
+266,[[266]],['Musculoskeletal Abnormalities']
+267,[[267]],['Myasthenia Gravis']
+268,[[268]],['Mycosis Fungoides']
+269,[[269]],['Myelodysplastic Syndromes']
+270,[[270]],['Myeloproliferative Disorders']
+271,[[271]],['Myocardial Infarction']
+272,[[272]],['Myocardial Ischemia']
+273,[[273]],['Myocardial Reperfusion Injury']
+274,[[274]],['Myocarditis']
+275,[[275]],['Myocardium']
+276,[[276]],"['Myocytes, Cardiac']"
+277,[[277]],['Myopia']
+278,[[278]],['Myositis Ossificans']
+279,[[279]],['Myotonic Dystrophy']
+280,[[280]],['Nasal Polyps']
+281,[[281]],['Nasopharyngeal Neoplasms']
+282,[[282]],['Neoplasms']
+283,[[283]],"['Neoplasms, Germ Cell and Embryonal']"
+284,[[284]],"['Neoplasms, Glandular and Epithelial']"
+285,[[285]],"['Neoplasms, Squamous Cell']"
+286,[[286]],['Nephrosclerosis']
+287,[[287]],['Nerve Sheath Neoplasms']
+288,[[288]],['Nervous System Diseases']
+289,[[289]],['Neurilemmoma']
+290,[[290]],['Neuroblastoma']
+291,[[291]],['Neurodegenerative Diseases']
+292,[[292]],['Neurofibromatosis 2']
+293,[[293]],"['Neuroma, Acoustic']"
+294,[[294]],['Neutropenia']
+295,[[295]],"['Nevus, Pigmented']"
+296,[[296]],['Obesity']
+297,[[297]],['Odontogenic Tumors']
+298,[[298]],['Oligodendroglioma']
+299,[[299]],['Osteoarthritis']
+300,[[300]],['Osteolysis']
+301,[[301]],['Osteoporosis']
+302,[[302]],['Osteosarcoma']
+303,[[303]],['Osteosarcoma ']
+304,[[304]],['Ovarian Neoplasms']
+305,[[305]],['Ovary Syndrome']
+306,[[306]],['Pain']
+307,[[307]],['Pancreatic Neoplasms']
+308,[[308]],['Panic Disorder']
+309,[[309]],['Papilary thyroid carcinoma']
+310,[[310]],['Parkinson Disease']
+311,[[311]],['Patau Syndrome']
+312,[[312]],"['Pemphigus, Benign Familial']"
+313,[[313]],['Periodontal Diseases']
+314,[[314]],['Periodontitis']
+315,[[315]],['Pheochromocytoma']
+316,[[316]],['Pituitary Adenomas']
+317,[[317]],['Pituitary Neoplasms']
+318,[[318]],['Polycystic Kidney Diseases']
+319,[[319]],['Polycythemia Vera']
+320,[[320]],['Precursor B-Cell Lymphoblastic Leukemia-Lymphoma']
+321,[[321]],['Precursor Cell Lymphoblastic Leukemia-Lymphoma']
+322,[[322]],['Precursor T-Cell Lymphoblastic Leukemia-Lymphoma']
+323,[[323]],['Pre-Eclampsia']
+324,[[324]],"['Pregnancy, Ectopic']"
+325,[[325]],['Prion Diseases']
+326,[[326]],['Prolactinoma']
+327,[[327]],['Prostate Neoplasms']
+328,[[328]],['Prostatic Neoplasms']
+329,[[329]],['PRRSV Infection']
+330,[[330]],['Psoriasis']
+331,[[331]],['Psychotic Disorders']
+332,[[332]],"['Pulmonary Disease, Chronic Obstructive']"
+333,[[333]],['Pulmonary Embolism']
+334,[[334]],['Pulmonary Fibrosis']
+335,[[335]],['Radiation Injuries']
+336,[[336]],['Rectal Neoplasms']
+337,[[337]],['Renal Insufficiency']
+338,[[338]],['Reperfusion Injury']
+339,[[339]],['Retinal Degeneration']
+340,[[340]],['Retinal Neovascularization']
+341,[[341]],['Retinoblastoma']
+342,[[342]],['Rhabdomyosarcoma']
+343,[[343]],"['Rhinitis, Allergic, Perennial']"
+344,[[344]],['RNA Virus Infections']
+345,[[345]],['Salivary Gland Neoplasms']
+346,[[346]],['Sarcoma']
+347,[[347]],"['Sarcoma, Ewing']"
+348,[[348]],"[""Sarcoma, Ewing's""]"
+349,[[349]],"['Sarcoma, Kaposi']"
+350,[[350]],"['Sarcoma, Synovial']"
+351,[[351]],['SARS Virus']
+352,[[352]],['Schistosomiasis']
+353,[[353]],['Schizophrenia']
+354,[[354]],"['Scleroderma, Localized']"
+355,[[355]],"['Scleroderma, Systemic']"
+356,[[356]],['Sepsis']
+357,[[357]],['Sezary Syndrome']
+358,[[358]],['SIV Infection']
+359,[[359]],"[""Sjogren's Syndrome""]"
+360,[[360]],['Skin Neoplasms']
+361,[[361]],['Small Cell Lung Carcinoma']
+362,[[362]],['Spinal Cord Injuries']
+363,[[363]],['Stomach Diseases']
+364,[[364]],['Stomach Neoplasms']
+365,[[365]],['Stomach Neoplasms ']
+366,[[366]],['Stroke']
+367,[[367]],"['Supranuclear Palsy, Progressive']"
+368,[[368]],['Synapses']
+369,[[369]],['Testicular Neoplasms']
+370,[[370]],['Thyroid Neoplasms']
+371,[[371]],['Tongue Neoplasms']
+372,[[372]],['Tourette Syndrome']
+373,[[373]],['Toxoplasma']
+374,[[374]],['Toxoplasmosis']
+375,[[375]],['Trophoblasts']
+376,[[376]],"['Tuberculosis, Pulmonary']"
+377,[[377]],['Urinary Bladder Neoplasms']
+378,[[378]],['Uterine Cervical Neoplasms']
+379,[[379]],['Vascular Calcification']
+380,[[380]],['Vascular Diseases']
+381,[[381]],['Vitiligo']
+382,[[382]],['Waldenstrom Macroglobulinemia']
+383,[[383]],['Wounds and Injuries']

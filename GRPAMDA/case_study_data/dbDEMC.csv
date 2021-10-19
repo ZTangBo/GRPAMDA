@@ -1,0 +1,1816 @@
+,Unnamed: 0,miRNA,disease
+0,1,hsa-let-7a,Breast Neoplasms
+1,2,hsa-let-7b,Breast Neoplasms
+2,3,hsa-let-7c,Breast Neoplasms
+3,4,hsa-let-7d,Breast Neoplasms
+4,5,hsa-let-7e,Breast Neoplasms
+5,6,hsa-let-7f,Breast Neoplasms
+6,7,hsa-let-7g,Breast Neoplasms
+7,8,hsa-let-7i,Breast Neoplasms
+8,9,hsa-mir-1,Breast Neoplasms
+9,10,hsa-mir-100,Breast Neoplasms
+10,11,hsa-mir-101,Breast Neoplasms
+11,12,hsa-mir-105,Breast Neoplasms
+12,13,hsa-mir-106a,Breast Neoplasms
+13,14,hsa-mir-106b,Breast Neoplasms
+14,15,hsa-mir-107,Breast Neoplasms
+15,16,hsa-mir-10a,Breast Neoplasms
+16,17,hsa-mir-10b,Breast Neoplasms
+17,18,hsa-mir-122,Breast Neoplasms
+18,19,hsa-mir-124,Breast Neoplasms
+19,20,hsa-mir-125a,Breast Neoplasms
+20,21,hsa-mir-126,Breast Neoplasms
+21,22,hsa-mir-127,Breast Neoplasms
+22,23,hsa-mir-128,Breast Neoplasms
+23,24,hsa-mir-129,Breast Neoplasms
+24,25,hsa-mir-130a,Breast Neoplasms
+25,26,hsa-mir-130b,Breast Neoplasms
+26,27,hsa-mir-132,Breast Neoplasms
+27,28,hsa-mir-133a,Breast Neoplasms
+28,29,hsa-mir-133b,Breast Neoplasms
+29,30,hsa-mir-134,Breast Neoplasms
+30,31,hsa-mir-135a,Breast Neoplasms
+31,32,hsa-mir-135b,Breast Neoplasms
+32,33,hsa-mir-136,Breast Neoplasms
+33,34,hsa-mir-137,Breast Neoplasms
+34,35,hsa-mir-138,Breast Neoplasms
+35,36,hsa-mir-139,Breast Neoplasms
+36,37,hsa-mir-140,Breast Neoplasms
+37,38,hsa-mir-141,Breast Neoplasms
+38,39,hsa-mir-143,Breast Neoplasms
+39,40,hsa-mir-144,Breast Neoplasms
+40,41,hsa-mir-145,Breast Neoplasms
+41,42,hsa-mir-146a,Breast Neoplasms
+42,43,hsa-mir-146b,Breast Neoplasms
+43,44,hsa-mir-148a,Breast Neoplasms
+44,45,hsa-mir-148b,Breast Neoplasms
+45,46,hsa-mir-149,Breast Neoplasms
+46,47,hsa-mir-150,Breast Neoplasms
+47,48,hsa-mir-152,Breast Neoplasms
+48,49,hsa-mir-153,Breast Neoplasms
+49,50,hsa-mir-154,Breast Neoplasms
+50,51,hsa-mir-155,Breast Neoplasms
+51,52,hsa-mir-15a,Breast Neoplasms
+52,53,hsa-mir-15b,Breast Neoplasms
+53,54,hsa-mir-16,Breast Neoplasms
+54,55,hsa-mir-181a,Breast Neoplasms
+55,56,hsa-mir-181b,Breast Neoplasms
+56,57,hsa-mir-181c,Breast Neoplasms
+57,58,hsa-mir-181d,Breast Neoplasms
+58,59,hsa-mir-182,Breast Neoplasms
+59,60,hsa-mir-183,Breast Neoplasms
+60,61,hsa-mir-184,Breast Neoplasms
+61,62,hsa-mir-185,Breast Neoplasms
+62,63,hsa-mir-186,Breast Neoplasms
+63,64,hsa-mir-187,Breast Neoplasms
+64,65,hsa-mir-188,Breast Neoplasms
+65,66,hsa-mir-189,Breast Neoplasms
+66,67,hsa-mir-18a,Breast Neoplasms
+67,68,hsa-mir-18b,Breast Neoplasms
+68,69,hsa-mir-191,Breast Neoplasms
+69,70,hsa-mir-192,Breast Neoplasms
+70,71,hsa-mir-193a,Breast Neoplasms
+71,72,hsa-mir-193b,Breast Neoplasms
+72,73,hsa-mir-194,Breast Neoplasms
+73,74,hsa-mir-195,Breast Neoplasms
+74,75,hsa-mir-196a,Breast Neoplasms
+75,76,hsa-mir-196b,Breast Neoplasms
+76,77,hsa-mir-197,Breast Neoplasms
+77,78,hsa-mir-198,Breast Neoplasms
+78,79,hsa-mir-199a,Breast Neoplasms
+79,80,hsa-mir-199b,Breast Neoplasms
+80,81,hsa-mir-19a,Breast Neoplasms
+81,82,hsa-mir-19b,Breast Neoplasms
+82,83,hsa-mir-200a,Breast Neoplasms
+83,84,hsa-mir-200b,Breast Neoplasms
+84,85,hsa-mir-200c,Breast Neoplasms
+85,86,hsa-mir-202,Breast Neoplasms
+86,87,hsa-mir-203,Breast Neoplasms
+87,88,hsa-mir-204,Breast Neoplasms
+88,89,hsa-mir-205,Breast Neoplasms
+89,90,hsa-mir-206,Breast Neoplasms
+90,91,hsa-mir-21,Breast Neoplasms
+91,92,hsa-mir-210,Breast Neoplasms
+92,93,hsa-mir-211,Breast Neoplasms
+93,94,hsa-mir-212,Breast Neoplasms
+94,95,hsa-mir-214,Breast Neoplasms
+95,96,hsa-mir-215,Breast Neoplasms
+96,97,hsa-mir-217,Breast Neoplasms
+97,98,hsa-mir-218,Breast Neoplasms
+98,99,hsa-mir-219,Breast Neoplasms
+99,100,hsa-mir-22,Breast Neoplasms
+100,101,hsa-mir-221,Breast Neoplasms
+101,102,hsa-mir-222,Breast Neoplasms
+102,103,hsa-mir-223,Breast Neoplasms
+103,104,hsa-mir-224,Breast Neoplasms
+104,105,hsa-mir-23a,Breast Neoplasms
+105,106,hsa-mir-23b,Breast Neoplasms
+106,107,hsa-mir-24,Breast Neoplasms
+107,108,hsa-mir-25,Breast Neoplasms
+108,109,hsa-mir-26a,Breast Neoplasms
+109,110,hsa-mir-26b,Breast Neoplasms
+110,111,hsa-mir-27a,Breast Neoplasms
+111,112,hsa-mir-27b,Breast Neoplasms
+112,113,hsa-mir-28,Breast Neoplasms
+113,114,hsa-mir-296,Breast Neoplasms
+114,115,hsa-mir-299,Breast Neoplasms
+115,116,hsa-mir-29a,Breast Neoplasms
+116,117,hsa-mir-29b,Breast Neoplasms
+117,118,hsa-mir-29c,Breast Neoplasms
+118,119,hsa-mir-302a,Breast Neoplasms
+119,120,hsa-mir-302b,Breast Neoplasms
+120,121,hsa-mir-302c,Breast Neoplasms
+121,122,hsa-mir-302d,Breast Neoplasms
+122,123,hsa-mir-30b,Breast Neoplasms
+123,124,hsa-mir-30c,Breast Neoplasms
+124,125,hsa-mir-30d,Breast Neoplasms
+125,126,hsa-mir-31,Breast Neoplasms
+126,127,hsa-mir-32,Breast Neoplasms
+127,128,hsa-mir-325,Breast Neoplasms
+128,129,hsa-mir-326,Breast Neoplasms
+129,130,hsa-mir-328,Breast Neoplasms
+130,131,hsa-mir-329,Breast Neoplasms
+131,132,hsa-mir-330,Breast Neoplasms
+132,133,hsa-mir-331,Breast Neoplasms
+133,134,hsa-mir-335,Breast Neoplasms
+134,135,hsa-mir-337,Breast Neoplasms
+135,136,hsa-mir-338,Breast Neoplasms
+136,137,hsa-mir-339,Breast Neoplasms
+137,138,hsa-mir-340,Breast Neoplasms
+138,139,hsa-mir-342,Breast Neoplasms
+139,140,hsa-mir-345,Breast Neoplasms
+140,141,hsa-mir-346,Breast Neoplasms
+141,142,hsa-mir-34a,Breast Neoplasms
+142,143,hsa-mir-34b,Breast Neoplasms
+143,144,hsa-mir-34c,Breast Neoplasms
+144,145,hsa-mir-361,Breast Neoplasms
+145,146,hsa-mir-362,Breast Neoplasms
+146,147,hsa-mir-363,Breast Neoplasms
+147,148,hsa-mir-367,Breast Neoplasms
+148,149,hsa-mir-369,Breast Neoplasms
+149,150,hsa-mir-370,Breast Neoplasms
+150,151,hsa-mir-371,Breast Neoplasms
+151,152,hsa-mir-372,Breast Neoplasms
+152,153,hsa-mir-373,Breast Neoplasms
+153,154,hsa-mir-375,Breast Neoplasms
+154,155,hsa-mir-376a,Breast Neoplasms
+155,156,hsa-mir-376b,Breast Neoplasms
+156,157,hsa-mir-377,Breast Neoplasms
+157,158,hsa-mir-379,Breast Neoplasms
+158,159,hsa-mir-381,Breast Neoplasms
+159,160,hsa-mir-382,Breast Neoplasms
+160,161,hsa-mir-383,Breast Neoplasms
+161,162,hsa-mir-410,Breast Neoplasms
+162,163,hsa-mir-411,Breast Neoplasms
+163,164,hsa-mir-421,Breast Neoplasms
+164,165,hsa-mir-422a,Breast Neoplasms
+165,166,hsa-mir-424,Breast Neoplasms
+166,167,hsa-mir-429,Breast Neoplasms
+167,168,hsa-mir-431,Breast Neoplasms
+168,169,hsa-mir-432,Breast Neoplasms
+169,170,hsa-mir-433,Breast Neoplasms
+170,171,hsa-mir-448,Breast Neoplasms
+171,172,hsa-mir-451,Breast Neoplasms
+172,173,hsa-mir-452,Breast Neoplasms
+173,174,hsa-mir-455,Breast Neoplasms
+174,175,hsa-mir-483,Breast Neoplasms
+175,176,hsa-mir-484,Breast Neoplasms
+176,177,hsa-mir-486,Breast Neoplasms
+177,178,hsa-mir-487a,Breast Neoplasms
+178,179,hsa-mir-487b,Breast Neoplasms
+179,180,hsa-mir-489,Breast Neoplasms
+180,181,hsa-mir-490,Breast Neoplasms
+181,182,hsa-mir-491,Breast Neoplasms
+182,183,hsa-mir-492,Breast Neoplasms
+183,184,hsa-mir-495,Breast Neoplasms
+184,185,hsa-mir-497,Breast Neoplasms
+185,186,hsa-mir-498,Breast Neoplasms
+186,187,hsa-mir-501,Breast Neoplasms
+187,188,hsa-mir-502,Breast Neoplasms
+188,189,hsa-mir-503,Breast Neoplasms
+189,190,hsa-mir-504,Breast Neoplasms
+190,191,hsa-mir-505,Breast Neoplasms
+191,192,hsa-mir-508,Breast Neoplasms
+192,193,hsa-mir-510,Breast Neoplasms
+193,194,hsa-mir-517a,Breast Neoplasms
+194,195,hsa-mir-517c,Breast Neoplasms
+195,196,hsa-mir-518a,Breast Neoplasms
+196,197,hsa-mir-518c,Breast Neoplasms
+197,198,hsa-mir-518e,Breast Neoplasms
+198,199,hsa-mir-518f,Breast Neoplasms
+199,200,hsa-mir-519b,Breast Neoplasms
+200,201,hsa-mir-519c,Breast Neoplasms
+201,202,hsa-mir-519e,Breast Neoplasms
+202,203,hsa-mir-520a,Breast Neoplasms
+203,204,hsa-mir-520b,Breast Neoplasms
+204,205,hsa-mir-520d,Breast Neoplasms
+205,206,hsa-mir-520e,Breast Neoplasms
+206,207,hsa-mir-520f,Breast Neoplasms
+207,208,hsa-mir-521,Breast Neoplasms
+208,209,hsa-mir-523,Breast Neoplasms
+209,210,hsa-mir-524,Breast Neoplasms
+210,211,hsa-mir-525,Breast Neoplasms
+211,212,hsa-mir-526a,Breast Neoplasms
+212,213,hsa-mir-526b,Breast Neoplasms
+213,214,hsa-mir-527,Breast Neoplasms
+214,215,hsa-mir-532,Breast Neoplasms
+215,216,hsa-mir-539,Breast Neoplasms
+216,217,hsa-mir-545,Breast Neoplasms
+217,218,hsa-mir-551a,Breast Neoplasms
+218,219,hsa-mir-557,Breast Neoplasms
+219,220,hsa-mir-564,Breast Neoplasms
+220,221,hsa-mir-566,Breast Neoplasms
+221,222,hsa-mir-567,Breast Neoplasms
+222,223,hsa-mir-570,Breast Neoplasms
+223,224,hsa-mir-572,Breast Neoplasms
+224,225,hsa-mir-574,Breast Neoplasms
+225,226,hsa-mir-575,Breast Neoplasms
+226,227,hsa-mir-582,Breast Neoplasms
+227,228,hsa-mir-583,Breast Neoplasms
+228,229,hsa-mir-584,Breast Neoplasms
+229,230,hsa-mir-589,Breast Neoplasms
+230,231,hsa-mir-590,Breast Neoplasms
+231,232,hsa-mir-593,Breast Neoplasms
+232,233,hsa-mir-595,Breast Neoplasms
+233,234,hsa-mir-598,Breast Neoplasms
+234,235,hsa-mir-600,Breast Neoplasms
+235,236,hsa-mir-601,Breast Neoplasms
+236,237,hsa-mir-602,Breast Neoplasms
+237,238,hsa-mir-603,Breast Neoplasms
+238,239,hsa-mir-608,Breast Neoplasms
+239,240,hsa-mir-610,Breast Neoplasms
+240,241,hsa-mir-612,Breast Neoplasms
+241,242,hsa-mir-614,Breast Neoplasms
+242,243,hsa-mir-615,Breast Neoplasms
+243,244,hsa-mir-616,Breast Neoplasms
+244,245,hsa-mir-617,Breast Neoplasms
+245,246,hsa-mir-619,Breast Neoplasms
+246,247,hsa-mir-621,Breast Neoplasms
+247,248,hsa-mir-622,Breast Neoplasms
+248,249,hsa-mir-624,Breast Neoplasms
+249,250,hsa-mir-625,Breast Neoplasms
+250,251,hsa-mir-627,Breast Neoplasms
+251,252,hsa-mir-628,Breast Neoplasms
+252,253,hsa-mir-629,Breast Neoplasms
+253,254,hsa-mir-630,Breast Neoplasms
+254,255,hsa-mir-637,Breast Neoplasms
+255,256,hsa-mir-638,Breast Neoplasms
+256,257,hsa-mir-641,Breast Neoplasms
+257,258,hsa-mir-647,Breast Neoplasms
+258,259,hsa-mir-648,Breast Neoplasms
+259,260,hsa-mir-650,Breast Neoplasms
+260,261,hsa-mir-652,Breast Neoplasms
+261,262,hsa-mir-654,Breast Neoplasms
+262,263,hsa-mir-657,Breast Neoplasms
+263,264,hsa-mir-658,Breast Neoplasms
+264,265,hsa-mir-659,Breast Neoplasms
+265,266,hsa-mir-660,Breast Neoplasms
+266,267,hsa-mir-661,Breast Neoplasms
+267,268,hsa-mir-662,Breast Neoplasms
+268,269,hsa-mir-663,Breast Neoplasms
+269,270,hsa-mir-668,Breast Neoplasms
+270,271,hsa-mir-671,Breast Neoplasms
+271,272,hsa-mir-7,Breast Neoplasms
+272,273,hsa-mir-758,Breast Neoplasms
+273,274,hsa-mir-765,Breast Neoplasms
+274,275,hsa-mir-766,Breast Neoplasms
+275,276,hsa-mir-9,Breast Neoplasms
+276,277,hsa-mir-92,Breast Neoplasms
+277,278,hsa-mir-92b,Breast Neoplasms
+278,279,hsa-mir-93,Breast Neoplasms
+279,280,hsa-mir-95,Breast Neoplasms
+280,281,hsa-mir-96,Breast Neoplasms
+281,282,hsa-mir-98,Breast Neoplasms
+282,283,hsa-mir-99a,Breast Neoplasms
+283,284,hsa-mir-99b,Breast Neoplasms
+284,285,hsa-let-7a,Colon Neoplasms
+285,286,hsa-let-7b,Colon Neoplasms
+286,287,hsa-let-7c,Colon Neoplasms
+287,288,hsa-let-7d,Colon Neoplasms
+288,289,hsa-let-7e,Colon Neoplasms
+289,290,hsa-let-7f,Colon Neoplasms
+290,291,hsa-let-7g,Colon Neoplasms
+291,292,hsa-let-7i,Colon Neoplasms
+292,293,hsa-mir-1,Colon Neoplasms
+293,294,hsa-mir-100,Colon Neoplasms
+294,295,hsa-mir-105,Colon Neoplasms
+295,296,hsa-mir-106a,Colon Neoplasms
+296,297,hsa-mir-106b,Colon Neoplasms
+297,298,hsa-mir-107,Colon Neoplasms
+298,299,hsa-mir-10b,Colon Neoplasms
+299,300,hsa-mir-124,Colon Neoplasms
+300,301,hsa-mir-125a,Colon Neoplasms
+301,302,hsa-mir-125b,Colon Neoplasms
+302,303,hsa-mir-126,Colon Neoplasms
+303,304,hsa-mir-127,Colon Neoplasms
+304,305,hsa-mir-128,Colon Neoplasms
+305,306,hsa-mir-129,Colon Neoplasms
+306,307,hsa-mir-130b,Colon Neoplasms
+307,308,hsa-mir-133a,Colon Neoplasms
+308,309,hsa-mir-133b,Colon Neoplasms
+309,310,hsa-mir-135a,Colon Neoplasms
+310,311,hsa-mir-135b,Colon Neoplasms
+311,312,hsa-mir-137,Colon Neoplasms
+312,313,hsa-mir-138,Colon Neoplasms
+313,314,hsa-mir-139,Colon Neoplasms
+314,315,hsa-mir-141,Colon Neoplasms
+315,316,hsa-mir-143,Colon Neoplasms
+316,317,hsa-mir-145,Colon Neoplasms
+317,318,hsa-mir-146a,Colon Neoplasms
+318,319,hsa-mir-148a,Colon Neoplasms
+319,320,hsa-mir-149,Colon Neoplasms
+320,321,hsa-mir-152,Colon Neoplasms
+321,322,hsa-mir-155,Colon Neoplasms
+322,323,hsa-mir-15a,Colon Neoplasms
+323,324,hsa-mir-16,Colon Neoplasms
+324,325,hsa-mir-17,Colon Neoplasms
+325,326,hsa-mir-181a,Colon Neoplasms
+326,327,hsa-mir-181b,Colon Neoplasms
+327,328,hsa-mir-181c,Colon Neoplasms
+328,329,hsa-mir-182,Colon Neoplasms
+329,330,hsa-mir-183,Colon Neoplasms
+330,331,hsa-mir-184,Colon Neoplasms
+331,332,hsa-mir-185,Colon Neoplasms
+332,333,hsa-mir-187,Colon Neoplasms
+333,334,hsa-mir-188,Colon Neoplasms
+334,335,hsa-mir-189,Colon Neoplasms
+335,336,hsa-mir-18a,Colon Neoplasms
+336,337,hsa-mir-191,Colon Neoplasms
+337,338,hsa-mir-192,Colon Neoplasms
+338,339,hsa-mir-194,Colon Neoplasms
+339,340,hsa-mir-195,Colon Neoplasms
+340,341,hsa-mir-196a,Colon Neoplasms
+341,342,hsa-mir-196b,Colon Neoplasms
+342,343,hsa-mir-197,Colon Neoplasms
+343,344,hsa-mir-198,Colon Neoplasms
+344,345,hsa-mir-199b,Colon Neoplasms
+345,346,hsa-mir-19a,Colon Neoplasms
+346,347,hsa-mir-19b,Colon Neoplasms
+347,348,hsa-mir-200b,Colon Neoplasms
+348,349,hsa-mir-200c,Colon Neoplasms
+349,350,hsa-mir-202,Colon Neoplasms
+350,351,hsa-mir-203,Colon Neoplasms
+351,352,hsa-mir-204,Colon Neoplasms
+352,353,hsa-mir-205,Colon Neoplasms
+353,354,hsa-mir-206,Colon Neoplasms
+354,355,hsa-mir-20a,Colon Neoplasms
+355,356,hsa-mir-21,Colon Neoplasms
+356,357,hsa-mir-210,Colon Neoplasms
+357,358,hsa-mir-211,Colon Neoplasms
+358,359,hsa-mir-212,Colon Neoplasms
+359,360,hsa-mir-214,Colon Neoplasms
+360,361,hsa-mir-215,Colon Neoplasms
+361,362,hsa-mir-218,Colon Neoplasms
+362,363,hsa-mir-219,Colon Neoplasms
+363,364,hsa-mir-22,Colon Neoplasms
+364,365,hsa-mir-221,Colon Neoplasms
+365,366,hsa-mir-222,Colon Neoplasms
+366,367,hsa-mir-223,Colon Neoplasms
+367,368,hsa-mir-224,Colon Neoplasms
+368,369,hsa-mir-25,Colon Neoplasms
+369,370,hsa-mir-26a,Colon Neoplasms
+370,371,hsa-mir-27b,Colon Neoplasms
+371,372,hsa-mir-29a,Colon Neoplasms
+372,373,hsa-mir-29b,Colon Neoplasms
+373,374,hsa-mir-29c,Colon Neoplasms
+374,375,hsa-mir-302a,Colon Neoplasms
+375,376,hsa-mir-30b,Colon Neoplasms
+376,377,hsa-mir-30c,Colon Neoplasms
+377,378,hsa-mir-30d,Colon Neoplasms
+378,379,hsa-mir-31,Colon Neoplasms
+379,380,hsa-mir-32,Colon Neoplasms
+380,381,hsa-mir-324,Colon Neoplasms
+381,382,hsa-mir-326,Colon Neoplasms
+382,383,hsa-mir-328,Colon Neoplasms
+383,384,hsa-mir-330,Colon Neoplasms
+384,385,hsa-mir-331,Colon Neoplasms
+385,386,hsa-mir-335,Colon Neoplasms
+386,387,hsa-mir-337,Colon Neoplasms
+387,388,hsa-mir-338,Colon Neoplasms
+388,389,hsa-mir-339,Colon Neoplasms
+389,390,hsa-mir-33b,Colon Neoplasms
+390,391,hsa-mir-340,Colon Neoplasms
+391,392,hsa-mir-345,Colon Neoplasms
+392,393,hsa-mir-346,Colon Neoplasms
+393,394,hsa-mir-34a,Colon Neoplasms
+394,395,hsa-mir-34b,Colon Neoplasms
+395,396,hsa-mir-371,Colon Neoplasms
+396,397,hsa-mir-373,Colon Neoplasms
+397,398,hsa-mir-379,Colon Neoplasms
+398,399,hsa-mir-410,Colon Neoplasms
+399,400,hsa-mir-422a,Colon Neoplasms
+400,401,hsa-mir-424,Colon Neoplasms
+401,402,hsa-mir-429,Colon Neoplasms
+402,403,hsa-mir-432,Colon Neoplasms
+403,404,hsa-mir-452,Colon Neoplasms
+404,405,hsa-mir-488,Colon Neoplasms
+405,406,hsa-mir-490,Colon Neoplasms
+406,407,hsa-mir-494,Colon Neoplasms
+407,408,hsa-mir-497,Colon Neoplasms
+408,409,hsa-mir-498,Colon Neoplasms
+409,410,hsa-mir-503,Colon Neoplasms
+410,411,hsa-mir-517a,Colon Neoplasms
+411,412,hsa-mir-7,Colon Neoplasms
+412,413,hsa-mir-9,Colon Neoplasms
+413,414,hsa-mir-92,Colon Neoplasms
+414,415,hsa-mir-93,Colon Neoplasms
+415,416,hsa-mir-95,Colon Neoplasms
+416,417,hsa-mir-96,Colon Neoplasms
+417,418,hsa-mir-99a,Colon Neoplasms
+418,419,hsa-mir-99b,Colon Neoplasms
+419,420,hsa-let-7a,Colonic Neoplasms
+420,421,hsa-let-7b,Colonic Neoplasms
+421,422,hsa-let-7c,Colonic Neoplasms
+422,423,hsa-let-7d,Colonic Neoplasms
+423,424,hsa-let-7e,Colonic Neoplasms
+424,425,hsa-let-7f,Colonic Neoplasms
+425,426,hsa-let-7g,Colonic Neoplasms
+426,427,hsa-let-7i,Colonic Neoplasms
+427,428,hsa-mir-1,Colonic Neoplasms
+428,429,hsa-mir-100,Colonic Neoplasms
+429,430,hsa-mir-105,Colonic Neoplasms
+430,431,hsa-mir-106a,Colonic Neoplasms
+431,432,hsa-mir-106b,Colonic Neoplasms
+432,433,hsa-mir-107,Colonic Neoplasms
+433,434,hsa-mir-10b,Colonic Neoplasms
+434,435,hsa-mir-124,Colonic Neoplasms
+435,436,hsa-mir-125a,Colonic Neoplasms
+436,437,hsa-mir-125b,Colonic Neoplasms
+437,438,hsa-mir-126,Colonic Neoplasms
+438,439,hsa-mir-127,Colonic Neoplasms
+439,440,hsa-mir-128,Colonic Neoplasms
+440,441,hsa-mir-129,Colonic Neoplasms
+441,442,hsa-mir-130b,Colonic Neoplasms
+442,443,hsa-mir-133a,Colonic Neoplasms
+443,444,hsa-mir-133b,Colonic Neoplasms
+444,445,hsa-mir-135a,Colonic Neoplasms
+445,446,hsa-mir-135b,Colonic Neoplasms
+446,447,hsa-mir-137,Colonic Neoplasms
+447,448,hsa-mir-138,Colonic Neoplasms
+448,449,hsa-mir-139,Colonic Neoplasms
+449,450,hsa-mir-141,Colonic Neoplasms
+450,451,hsa-mir-143,Colonic Neoplasms
+451,452,hsa-mir-145,Colonic Neoplasms
+452,453,hsa-mir-146a,Colonic Neoplasms
+453,454,hsa-mir-148a,Colonic Neoplasms
+454,455,hsa-mir-149,Colonic Neoplasms
+455,456,hsa-mir-152,Colonic Neoplasms
+456,457,hsa-mir-155,Colonic Neoplasms
+457,458,hsa-mir-15a,Colonic Neoplasms
+458,459,hsa-mir-16,Colonic Neoplasms
+459,460,hsa-mir-17,Colonic Neoplasms
+460,461,hsa-mir-181a,Colonic Neoplasms
+461,462,hsa-mir-181b,Colonic Neoplasms
+462,463,hsa-mir-181c,Colonic Neoplasms
+463,464,hsa-mir-182,Colonic Neoplasms
+464,465,hsa-mir-183,Colonic Neoplasms
+465,466,hsa-mir-184,Colonic Neoplasms
+466,467,hsa-mir-185,Colonic Neoplasms
+467,468,hsa-mir-187,Colonic Neoplasms
+468,469,hsa-mir-188,Colonic Neoplasms
+469,470,hsa-mir-189,Colonic Neoplasms
+470,471,hsa-mir-18a,Colonic Neoplasms
+471,472,hsa-mir-191,Colonic Neoplasms
+472,473,hsa-mir-192,Colonic Neoplasms
+473,474,hsa-mir-194,Colonic Neoplasms
+474,475,hsa-mir-195,Colonic Neoplasms
+475,476,hsa-mir-196a,Colonic Neoplasms
+476,477,hsa-mir-196b,Colonic Neoplasms
+477,478,hsa-mir-197,Colonic Neoplasms
+478,479,hsa-mir-198,Colonic Neoplasms
+479,480,hsa-mir-199b,Colonic Neoplasms
+480,481,hsa-mir-19a,Colonic Neoplasms
+481,482,hsa-mir-19b,Colonic Neoplasms
+482,483,hsa-mir-200b,Colonic Neoplasms
+483,484,hsa-mir-200c,Colonic Neoplasms
+484,485,hsa-mir-202,Colonic Neoplasms
+485,486,hsa-mir-203,Colonic Neoplasms
+486,487,hsa-mir-204,Colonic Neoplasms
+487,488,hsa-mir-205,Colonic Neoplasms
+488,489,hsa-mir-206,Colonic Neoplasms
+489,490,hsa-mir-20a,Colonic Neoplasms
+490,491,hsa-mir-21,Colonic Neoplasms
+491,492,hsa-mir-210,Colonic Neoplasms
+492,493,hsa-mir-211,Colonic Neoplasms
+493,494,hsa-mir-212,Colonic Neoplasms
+494,495,hsa-mir-214,Colonic Neoplasms
+495,496,hsa-mir-215,Colonic Neoplasms
+496,497,hsa-mir-218,Colonic Neoplasms
+497,498,hsa-mir-219,Colonic Neoplasms
+498,499,hsa-mir-22,Colonic Neoplasms
+499,500,hsa-mir-221,Colonic Neoplasms
+500,501,hsa-mir-222,Colonic Neoplasms
+501,502,hsa-mir-223,Colonic Neoplasms
+502,503,hsa-mir-224,Colonic Neoplasms
+503,504,hsa-mir-25,Colonic Neoplasms
+504,505,hsa-mir-26a,Colonic Neoplasms
+505,506,hsa-mir-27b,Colonic Neoplasms
+506,507,hsa-mir-29a,Colonic Neoplasms
+507,508,hsa-mir-29b,Colonic Neoplasms
+508,509,hsa-mir-29c,Colonic Neoplasms
+509,510,hsa-mir-302a,Colonic Neoplasms
+510,511,hsa-mir-30b,Colonic Neoplasms
+511,512,hsa-mir-30c,Colonic Neoplasms
+512,513,hsa-mir-30d,Colonic Neoplasms
+513,514,hsa-mir-31,Colonic Neoplasms
+514,515,hsa-mir-32,Colonic Neoplasms
+515,516,hsa-mir-324,Colonic Neoplasms
+516,517,hsa-mir-326,Colonic Neoplasms
+517,518,hsa-mir-328,Colonic Neoplasms
+518,519,hsa-mir-330,Colonic Neoplasms
+519,520,hsa-mir-331,Colonic Neoplasms
+520,521,hsa-mir-335,Colonic Neoplasms
+521,522,hsa-mir-337,Colonic Neoplasms
+522,523,hsa-mir-338,Colonic Neoplasms
+523,524,hsa-mir-339,Colonic Neoplasms
+524,525,hsa-mir-33b,Colonic Neoplasms
+525,526,hsa-mir-340,Colonic Neoplasms
+526,527,hsa-mir-345,Colonic Neoplasms
+527,528,hsa-mir-346,Colonic Neoplasms
+528,529,hsa-mir-34a,Colonic Neoplasms
+529,530,hsa-mir-34b,Colonic Neoplasms
+530,531,hsa-mir-371,Colonic Neoplasms
+531,532,hsa-mir-373,Colonic Neoplasms
+532,533,hsa-mir-379,Colonic Neoplasms
+533,534,hsa-mir-410,Colonic Neoplasms
+534,535,hsa-mir-422a,Colonic Neoplasms
+535,536,hsa-mir-424,Colonic Neoplasms
+536,537,hsa-mir-429,Colonic Neoplasms
+537,538,hsa-mir-432,Colonic Neoplasms
+538,539,hsa-mir-452,Colonic Neoplasms
+539,540,hsa-mir-488,Colonic Neoplasms
+540,541,hsa-mir-490,Colonic Neoplasms
+541,542,hsa-mir-494,Colonic Neoplasms
+542,543,hsa-mir-497,Colonic Neoplasms
+543,544,hsa-mir-498,Colonic Neoplasms
+544,545,hsa-mir-503,Colonic Neoplasms
+545,546,hsa-mir-517a,Colonic Neoplasms
+546,547,hsa-mir-7,Colonic Neoplasms
+547,548,hsa-mir-9,Colonic Neoplasms
+548,549,hsa-mir-92,Colonic Neoplasms
+549,550,hsa-mir-93,Colonic Neoplasms
+550,551,hsa-mir-95,Colonic Neoplasms
+551,552,hsa-mir-96,Colonic Neoplasms
+552,553,hsa-mir-99a,Colonic Neoplasms
+553,554,hsa-mir-99b,Colonic Neoplasms
+554,555,hsa-let-7a,Esophageal Neoplasms
+555,556,hsa-let-7b,Esophageal Neoplasms
+556,557,hsa-let-7c,Esophageal Neoplasms
+557,558,hsa-let-7d,Esophageal Neoplasms
+558,559,hsa-let-7e,Esophageal Neoplasms
+559,560,hsa-let-7g,Esophageal Neoplasms
+560,561,hsa-let-7i,Esophageal Neoplasms
+561,562,hsa-mir-1,Esophageal Neoplasms
+562,563,hsa-mir-100,Esophageal Neoplasms
+563,564,hsa-mir-101,Esophageal Neoplasms
+564,565,hsa-mir-106a,Esophageal Neoplasms
+565,566,hsa-mir-106b,Esophageal Neoplasms
+566,567,hsa-mir-107,Esophageal Neoplasms
+567,568,hsa-mir-10a,Esophageal Neoplasms
+568,569,hsa-mir-10b,Esophageal Neoplasms
+569,570,hsa-mir-124,Esophageal Neoplasms
+570,571,hsa-mir-125a,Esophageal Neoplasms
+571,572,hsa-mir-125b,Esophageal Neoplasms
+572,573,hsa-mir-126,Esophageal Neoplasms
+573,574,hsa-mir-127,Esophageal Neoplasms
+574,575,hsa-mir-128,Esophageal Neoplasms
+575,576,hsa-mir-129,Esophageal Neoplasms
+576,577,hsa-mir-130a,Esophageal Neoplasms
+577,578,hsa-mir-130b,Esophageal Neoplasms
+578,579,hsa-mir-132,Esophageal Neoplasms
+579,580,hsa-mir-133a,Esophageal Neoplasms
+580,581,hsa-mir-133b,Esophageal Neoplasms
+581,582,hsa-mir-134,Esophageal Neoplasms
+582,583,hsa-mir-135a,Esophageal Neoplasms
+583,584,hsa-mir-135b,Esophageal Neoplasms
+584,585,hsa-mir-136,Esophageal Neoplasms
+585,586,hsa-mir-137,Esophageal Neoplasms
+586,587,hsa-mir-139,Esophageal Neoplasms
+587,588,hsa-mir-140,Esophageal Neoplasms
+588,589,hsa-mir-141,Esophageal Neoplasms
+589,590,hsa-mir-142,Esophageal Neoplasms
+590,591,hsa-mir-143,Esophageal Neoplasms
+591,592,hsa-mir-144,Esophageal Neoplasms
+592,593,hsa-mir-145,Esophageal Neoplasms
+593,594,hsa-mir-146a,Esophageal Neoplasms
+594,595,hsa-mir-146b,Esophageal Neoplasms
+595,596,hsa-mir-147b,Esophageal Neoplasms
+596,597,hsa-mir-148a,Esophageal Neoplasms
+597,598,hsa-mir-148b,Esophageal Neoplasms
+598,599,hsa-mir-149,Esophageal Neoplasms
+599,600,hsa-mir-150,Esophageal Neoplasms
+600,601,hsa-mir-151,Esophageal Neoplasms
+601,602,hsa-mir-152,Esophageal Neoplasms
+602,603,hsa-mir-153,Esophageal Neoplasms
+603,604,hsa-mir-154,Esophageal Neoplasms
+604,605,hsa-mir-155,Esophageal Neoplasms
+605,606,hsa-mir-15a,Esophageal Neoplasms
+606,607,hsa-mir-15b,Esophageal Neoplasms
+607,608,hsa-mir-16,Esophageal Neoplasms
+608,609,hsa-mir-17,Esophageal Neoplasms
+609,610,hsa-mir-181a,Esophageal Neoplasms
+610,611,hsa-mir-181b,Esophageal Neoplasms
+611,612,hsa-mir-181c,Esophageal Neoplasms
+612,613,hsa-mir-181d,Esophageal Neoplasms
+613,614,hsa-mir-182,Esophageal Neoplasms
+614,615,hsa-mir-183,Esophageal Neoplasms
+615,616,hsa-mir-185,Esophageal Neoplasms
+616,617,hsa-mir-186,Esophageal Neoplasms
+617,618,hsa-mir-187,Esophageal Neoplasms
+618,619,hsa-mir-188,Esophageal Neoplasms
+619,620,hsa-mir-189,Esophageal Neoplasms
+620,621,hsa-mir-18a,Esophageal Neoplasms
+621,622,hsa-mir-18b,Esophageal Neoplasms
+622,623,hsa-mir-191,Esophageal Neoplasms
+623,624,hsa-mir-192,Esophageal Neoplasms
+624,625,hsa-mir-193a,Esophageal Neoplasms
+625,626,hsa-mir-193b,Esophageal Neoplasms
+626,627,hsa-mir-194,Esophageal Neoplasms
+627,628,hsa-mir-195,Esophageal Neoplasms
+628,629,hsa-mir-196a,Esophageal Neoplasms
+629,630,hsa-mir-196b,Esophageal Neoplasms
+630,631,hsa-mir-197,Esophageal Neoplasms
+631,632,hsa-mir-198,Esophageal Neoplasms
+632,633,hsa-mir-199a,Esophageal Neoplasms
+633,634,hsa-mir-199b,Esophageal Neoplasms
+634,635,hsa-mir-19a,Esophageal Neoplasms
+635,636,hsa-mir-19b,Esophageal Neoplasms
+636,637,hsa-mir-200a,Esophageal Neoplasms
+637,638,hsa-mir-200b,Esophageal Neoplasms
+638,639,hsa-mir-200c,Esophageal Neoplasms
+639,640,hsa-mir-202,Esophageal Neoplasms
+640,641,hsa-mir-203,Esophageal Neoplasms
+641,642,hsa-mir-205,Esophageal Neoplasms
+642,643,hsa-mir-206,Esophageal Neoplasms
+643,644,hsa-mir-20a,Esophageal Neoplasms
+644,645,hsa-mir-20b,Esophageal Neoplasms
+645,646,hsa-mir-21,Esophageal Neoplasms
+646,647,hsa-mir-210,Esophageal Neoplasms
+647,648,hsa-mir-211,Esophageal Neoplasms
+648,649,hsa-mir-214,Esophageal Neoplasms
+649,650,hsa-mir-215,Esophageal Neoplasms
+650,651,hsa-mir-22,Esophageal Neoplasms
+651,652,hsa-mir-221,Esophageal Neoplasms
+652,653,hsa-mir-222,Esophageal Neoplasms
+653,654,hsa-mir-223,Esophageal Neoplasms
+654,655,hsa-mir-224,Esophageal Neoplasms
+655,656,hsa-mir-23a,Esophageal Neoplasms
+656,657,hsa-mir-23b,Esophageal Neoplasms
+657,658,hsa-mir-24,Esophageal Neoplasms
+658,659,hsa-mir-25,Esophageal Neoplasms
+659,660,hsa-mir-26a,Esophageal Neoplasms
+660,661,hsa-mir-26b,Esophageal Neoplasms
+661,662,hsa-mir-27a,Esophageal Neoplasms
+662,663,hsa-mir-27b,Esophageal Neoplasms
+663,664,hsa-mir-28,Esophageal Neoplasms
+664,665,hsa-mir-299,Esophageal Neoplasms
+665,666,hsa-mir-29a,Esophageal Neoplasms
+666,667,hsa-mir-29b,Esophageal Neoplasms
+667,668,hsa-mir-29c,Esophageal Neoplasms
+668,669,hsa-mir-301a,Esophageal Neoplasms
+669,670,hsa-mir-302b,Esophageal Neoplasms
+670,671,hsa-mir-302c,Esophageal Neoplasms
+671,672,hsa-mir-302d,Esophageal Neoplasms
+672,673,hsa-mir-30a,Esophageal Neoplasms
+673,674,hsa-mir-30b,Esophageal Neoplasms
+674,675,hsa-mir-30c,Esophageal Neoplasms
+675,676,hsa-mir-30d,Esophageal Neoplasms
+676,677,hsa-mir-31,Esophageal Neoplasms
+677,678,hsa-mir-32,Esophageal Neoplasms
+678,679,hsa-mir-324,Esophageal Neoplasms
+679,680,hsa-mir-326,Esophageal Neoplasms
+680,681,hsa-mir-328,Esophageal Neoplasms
+681,682,hsa-mir-329,Esophageal Neoplasms
+682,683,hsa-mir-330,Esophageal Neoplasms
+683,684,hsa-mir-331,Esophageal Neoplasms
+684,685,hsa-mir-335,Esophageal Neoplasms
+685,686,hsa-mir-338,Esophageal Neoplasms
+686,687,hsa-mir-339,Esophageal Neoplasms
+687,688,hsa-mir-345,Esophageal Neoplasms
+688,689,hsa-mir-346,Esophageal Neoplasms
+689,690,hsa-mir-34a,Esophageal Neoplasms
+690,691,hsa-mir-34b,Esophageal Neoplasms
+691,692,hsa-mir-34c,Esophageal Neoplasms
+692,693,hsa-mir-361,Esophageal Neoplasms
+693,694,hsa-mir-362,Esophageal Neoplasms
+694,695,hsa-mir-367,Esophageal Neoplasms
+695,696,hsa-mir-370,Esophageal Neoplasms
+696,697,hsa-mir-372,Esophageal Neoplasms
+697,698,hsa-mir-373,Esophageal Neoplasms
+698,699,hsa-mir-374b,Esophageal Neoplasms
+699,700,hsa-mir-375,Esophageal Neoplasms
+700,701,hsa-mir-376a,Esophageal Neoplasms
+701,702,hsa-mir-376b,Esophageal Neoplasms
+702,703,hsa-mir-377,Esophageal Neoplasms
+703,704,hsa-mir-379,Esophageal Neoplasms
+704,705,hsa-mir-381,Esophageal Neoplasms
+705,706,hsa-mir-382,Esophageal Neoplasms
+706,707,hsa-mir-383,Esophageal Neoplasms
+707,708,hsa-mir-384,Esophageal Neoplasms
+708,709,hsa-mir-409,Esophageal Neoplasms
+709,710,hsa-mir-410,Esophageal Neoplasms
+710,711,hsa-mir-411,Esophageal Neoplasms
+711,712,hsa-mir-421,Esophageal Neoplasms
+712,713,hsa-mir-422a,Esophageal Neoplasms
+713,714,hsa-mir-423,Esophageal Neoplasms
+714,715,hsa-mir-424,Esophageal Neoplasms
+715,716,hsa-mir-425,Esophageal Neoplasms
+716,717,hsa-mir-429,Esophageal Neoplasms
+717,718,hsa-mir-431,Esophageal Neoplasms
+718,719,hsa-mir-432,Esophageal Neoplasms
+719,720,hsa-mir-433,Esophageal Neoplasms
+720,721,hsa-mir-448,Esophageal Neoplasms
+721,722,hsa-mir-451,Esophageal Neoplasms
+722,723,hsa-mir-452,Esophageal Neoplasms
+723,724,hsa-mir-455,Esophageal Neoplasms
+724,725,hsa-mir-483,Esophageal Neoplasms
+725,726,hsa-mir-484,Esophageal Neoplasms
+726,727,hsa-mir-485,Esophageal Neoplasms
+727,728,hsa-mir-487a,Esophageal Neoplasms
+728,729,hsa-mir-489,Esophageal Neoplasms
+729,730,hsa-mir-490,Esophageal Neoplasms
+730,731,hsa-mir-491,Esophageal Neoplasms
+731,732,hsa-mir-493,Esophageal Neoplasms
+732,733,hsa-mir-494,Esophageal Neoplasms
+733,734,hsa-mir-495,Esophageal Neoplasms
+734,735,hsa-mir-497,Esophageal Neoplasms
+735,736,hsa-mir-498,Esophageal Neoplasms
+736,737,hsa-mir-501,Esophageal Neoplasms
+737,738,hsa-mir-502,Esophageal Neoplasms
+738,739,hsa-mir-503,Esophageal Neoplasms
+739,740,hsa-mir-505,Esophageal Neoplasms
+740,741,hsa-mir-506,Esophageal Neoplasms
+741,742,hsa-mir-507,Esophageal Neoplasms
+742,743,hsa-mir-508,Esophageal Neoplasms
+743,744,hsa-mir-509,Esophageal Neoplasms
+744,745,hsa-mir-510,Esophageal Neoplasms
+745,746,hsa-mir-511,Esophageal Neoplasms
+746,747,hsa-mir-516a,Esophageal Neoplasms
+747,748,hsa-mir-518a,Esophageal Neoplasms
+748,749,hsa-mir-518b,Esophageal Neoplasms
+749,750,hsa-mir-518c,Esophageal Neoplasms
+750,751,hsa-mir-518e,Esophageal Neoplasms
+751,752,hsa-mir-518f,Esophageal Neoplasms
+752,753,hsa-mir-519c,Esophageal Neoplasms
+753,754,hsa-mir-519d,Esophageal Neoplasms
+754,755,hsa-mir-519e,Esophageal Neoplasms
+755,756,hsa-mir-520a,Esophageal Neoplasms
+756,757,hsa-mir-520b,Esophageal Neoplasms
+757,758,hsa-mir-520c,Esophageal Neoplasms
+758,759,hsa-mir-520d,Esophageal Neoplasms
+759,760,hsa-mir-520e,Esophageal Neoplasms
+760,761,hsa-mir-520f,Esophageal Neoplasms
+761,762,hsa-mir-520g,Esophageal Neoplasms
+762,763,hsa-mir-521,Esophageal Neoplasms
+763,764,hsa-mir-522,Esophageal Neoplasms
+764,765,hsa-mir-523,Esophageal Neoplasms
+765,766,hsa-mir-524,Esophageal Neoplasms
+766,767,hsa-mir-525,Esophageal Neoplasms
+767,768,hsa-mir-526a,Esophageal Neoplasms
+768,769,hsa-mir-527,Esophageal Neoplasms
+769,770,hsa-mir-532,Esophageal Neoplasms
+770,771,hsa-mir-542,Esophageal Neoplasms
+771,772,hsa-mir-548a,Esophageal Neoplasms
+772,773,hsa-mir-548c,Esophageal Neoplasms
+773,774,hsa-mir-548d,Esophageal Neoplasms
+774,775,hsa-mir-557,Esophageal Neoplasms
+775,776,hsa-mir-566,Esophageal Neoplasms
+776,777,hsa-mir-570,Esophageal Neoplasms
+777,778,hsa-mir-574,Esophageal Neoplasms
+778,779,hsa-mir-583,Esophageal Neoplasms
+779,780,hsa-mir-584,Esophageal Neoplasms
+780,781,hsa-mir-590,Esophageal Neoplasms
+781,782,hsa-mir-591,Esophageal Neoplasms
+782,783,hsa-mir-593,Esophageal Neoplasms
+783,784,hsa-mir-596,Esophageal Neoplasms
+784,785,hsa-mir-602,Esophageal Neoplasms
+785,786,hsa-mir-603,Esophageal Neoplasms
+786,787,hsa-mir-605,Esophageal Neoplasms
+787,788,hsa-mir-610,Esophageal Neoplasms
+788,789,hsa-mir-612,Esophageal Neoplasms
+789,790,hsa-mir-614,Esophageal Neoplasms
+790,791,hsa-mir-615,Esophageal Neoplasms
+791,792,hsa-mir-616,Esophageal Neoplasms
+792,793,hsa-mir-617,Esophageal Neoplasms
+793,794,hsa-mir-622,Esophageal Neoplasms
+794,795,hsa-mir-625,Esophageal Neoplasms
+795,796,hsa-mir-627,Esophageal Neoplasms
+796,797,hsa-mir-628,Esophageal Neoplasms
+797,798,hsa-mir-630,Esophageal Neoplasms
+798,799,hsa-mir-635,Esophageal Neoplasms
+799,800,hsa-mir-648,Esophageal Neoplasms
+800,801,hsa-mir-652,Esophageal Neoplasms
+801,802,hsa-mir-660,Esophageal Neoplasms
+802,803,hsa-mir-663,Esophageal Neoplasms
+803,804,hsa-mir-668,Esophageal Neoplasms
+804,805,hsa-mir-671,Esophageal Neoplasms
+805,806,hsa-mir-7,Esophageal Neoplasms
+806,807,hsa-mir-758,Esophageal Neoplasms
+807,808,hsa-mir-765,Esophageal Neoplasms
+808,809,hsa-mir-769,Esophageal Neoplasms
+809,810,hsa-mir-9,Esophageal Neoplasms
+810,811,hsa-mir-92,Esophageal Neoplasms
+811,812,hsa-mir-92b,Esophageal Neoplasms
+812,813,hsa-mir-93,Esophageal Neoplasms
+813,814,hsa-mir-95,Esophageal Neoplasms
+814,815,hsa-mir-96,Esophageal Neoplasms
+815,816,hsa-mir-98,Esophageal Neoplasms
+816,817,hsa-mir-99a,Esophageal Neoplasms
+817,818,hsa-mir-99b,Esophageal Neoplasms
+818,819,hsa-mir-492,Esophageal Neoplasms
+819,820,hsa-mir-571,Esophageal Neoplasms
+820,821,hsa-mir-650,Esophageal Neoplasms
+821,822,hsa-mir-661,Esophageal Neoplasms
+822,823,hsa-let-7d,Glioblastoma
+823,824,hsa-let-7e,Glioblastoma
+824,825,hsa-let-7g,Glioblastoma
+825,826,hsa-mir-105,Glioblastoma
+826,827,hsa-mir-10a,Glioblastoma
+827,828,hsa-mir-10b,Glioblastoma
+828,829,hsa-mir-129,Glioblastoma
+829,830,hsa-mir-132,Glioblastoma
+830,831,hsa-mir-135b,Glioblastoma
+831,832,hsa-mir-136,Glioblastoma
+832,833,hsa-mir-137,Glioblastoma
+833,834,hsa-mir-138,Glioblastoma
+834,835,hsa-mir-139,Glioblastoma
+835,836,hsa-mir-140,Glioblastoma
+836,837,hsa-mir-141,Glioblastoma
+837,838,hsa-mir-142,Glioblastoma
+838,839,hsa-mir-143,Glioblastoma
+839,840,hsa-mir-145,Glioblastoma
+840,841,hsa-mir-146b,Glioblastoma
+841,842,hsa-mir-148a,Glioblastoma
+842,843,hsa-mir-148b,Glioblastoma
+843,844,hsa-mir-149,Glioblastoma
+844,845,hsa-mir-150,Glioblastoma
+845,846,hsa-mir-151,Glioblastoma
+846,847,hsa-mir-153,Glioblastoma
+847,848,hsa-mir-154,Glioblastoma
+848,849,hsa-mir-155,Glioblastoma
+849,850,hsa-mir-15a,Glioblastoma
+850,851,hsa-mir-16,Glioblastoma
+851,852,hsa-mir-17,Glioblastoma
+852,853,hsa-mir-181a,Glioblastoma
+853,854,hsa-mir-181b,Glioblastoma
+854,855,hsa-mir-181c,Glioblastoma
+855,856,hsa-mir-182,Glioblastoma
+856,857,hsa-mir-183,Glioblastoma
+857,858,hsa-mir-185,Glioblastoma
+858,859,hsa-mir-186,Glioblastoma
+859,860,hsa-mir-187,Glioblastoma
+860,861,hsa-mir-188,Glioblastoma
+861,862,hsa-mir-18a,Glioblastoma
+862,863,hsa-mir-18b,Glioblastoma
+863,864,hsa-mir-193a,Glioblastoma
+864,865,hsa-mir-194,Glioblastoma
+865,866,hsa-mir-197,Glioblastoma
+866,867,hsa-mir-199a,Glioblastoma
+867,868,hsa-mir-199b,Glioblastoma
+868,869,hsa-mir-19a,Glioblastoma
+869,870,hsa-mir-19b,Glioblastoma
+870,871,hsa-mir-200a,Glioblastoma
+871,872,hsa-mir-200b,Glioblastoma
+872,873,hsa-mir-202,Glioblastoma
+873,874,hsa-mir-203,Glioblastoma
+874,875,hsa-mir-205,Glioblastoma
+875,876,hsa-mir-206,Glioblastoma
+876,877,hsa-mir-21,Glioblastoma
+877,878,hsa-mir-210,Glioblastoma
+878,879,hsa-mir-211,Glioblastoma
+879,880,hsa-mir-212,Glioblastoma
+880,881,hsa-mir-214,Glioblastoma
+881,882,hsa-mir-215,Glioblastoma
+882,883,hsa-mir-217,Glioblastoma
+883,884,hsa-mir-218,Glioblastoma
+884,885,hsa-mir-221,Glioblastoma
+885,886,hsa-mir-222,Glioblastoma
+886,887,hsa-mir-224,Glioblastoma
+887,888,hsa-mir-23a,Glioblastoma
+888,889,hsa-mir-24,Glioblastoma
+889,890,hsa-mir-25,Glioblastoma
+890,891,hsa-mir-26b,Glioblastoma
+891,892,hsa-mir-28,Glioblastoma
+892,893,hsa-mir-296,Glioblastoma
+893,894,hsa-mir-297,Glioblastoma
+894,895,hsa-mir-298,Glioblastoma
+895,896,hsa-mir-299,Glioblastoma
+896,897,hsa-mir-29b,Glioblastoma
+897,898,hsa-mir-300,Glioblastoma
+898,899,hsa-mir-302b,Glioblastoma
+899,900,hsa-mir-30a,Glioblastoma
+900,901,hsa-mir-30c,Glioblastoma
+901,902,hsa-mir-30d,Glioblastoma
+902,903,hsa-mir-30e,Glioblastoma
+903,904,hsa-mir-31,Glioblastoma
+904,905,hsa-mir-326,Glioblastoma
+905,906,hsa-mir-328,Glioblastoma
+906,907,hsa-mir-329,Glioblastoma
+907,908,hsa-mir-331,Glioblastoma
+908,909,hsa-mir-338,Glioblastoma
+909,910,hsa-mir-339,Glioblastoma
+910,911,hsa-mir-340,Glioblastoma
+911,912,hsa-mir-342,Glioblastoma
+912,913,hsa-mir-346,Glioblastoma
+913,914,hsa-mir-34a,Glioblastoma
+914,915,hsa-mir-34b,Glioblastoma
+915,916,hsa-mir-34c,Glioblastoma
+916,917,hsa-mir-362,Glioblastoma
+917,918,hsa-mir-369,Glioblastoma
+918,919,hsa-mir-370,Glioblastoma
+919,920,hsa-mir-371,Glioblastoma
+920,921,hsa-mir-373,Glioblastoma
+921,922,hsa-mir-375,Glioblastoma
+922,923,hsa-mir-376b,Glioblastoma
+923,924,hsa-mir-377,Glioblastoma
+924,925,hsa-mir-379,Glioblastoma
+925,926,hsa-mir-381,Glioblastoma
+926,927,hsa-mir-382,Glioblastoma
+927,928,hsa-mir-383,Glioblastoma
+928,929,hsa-mir-384,Glioblastoma
+929,930,hsa-mir-409,Glioblastoma
+930,931,hsa-mir-410,Glioblastoma
+931,932,hsa-mir-411,Glioblastoma
+932,933,hsa-mir-421,Glioblastoma
+933,934,hsa-mir-424,Glioblastoma
+934,935,hsa-mir-425,Glioblastoma
+935,936,hsa-mir-429,Glioblastoma
+936,937,hsa-mir-431,Glioblastoma
+937,938,hsa-mir-432,Glioblastoma
+938,939,hsa-mir-433,Glioblastoma
+939,940,hsa-mir-448,Glioblastoma
+940,941,hsa-mir-452,Glioblastoma
+941,942,hsa-mir-495,Glioblastoma
+942,943,hsa-mir-503,Glioblastoma
+943,944,hsa-mir-505,Glioblastoma
+944,945,hsa-mir-515,Glioblastoma
+945,946,hsa-mir-517a,Glioblastoma
+946,947,hsa-mir-518a,Glioblastoma
+947,948,hsa-mir-518b,Glioblastoma
+948,949,hsa-mir-519d,Glioblastoma
+949,950,hsa-mir-520c,Glioblastoma
+950,951,hsa-mir-522,Glioblastoma
+951,952,hsa-mir-523,Glioblastoma
+952,953,hsa-mir-527,Glioblastoma
+953,954,hsa-mir-7,Glioblastoma
+954,955,hsa-mir-9,Glioblastoma
+955,956,hsa-mir-95,Glioblastoma
+956,957,hsa-mir-96,Glioblastoma
+957,958,hsa-mir-98,Glioblastoma
+958,959,hsa-mir-1,Head and Neck Neoplasms
+959,960,hsa-mir-10b,Head and Neck Neoplasms
+960,961,hsa-mir-125a,Head and Neck Neoplasms
+961,962,hsa-mir-126,Head and Neck Neoplasms
+962,963,hsa-mir-133a,Head and Neck Neoplasms
+963,964,hsa-mir-133b,Head and Neck Neoplasms
+964,965,hsa-mir-136,Head and Neck Neoplasms
+965,966,hsa-mir-139,Head and Neck Neoplasms
+966,967,hsa-mir-143,Head and Neck Neoplasms
+967,968,hsa-mir-145,Head and Neck Neoplasms
+968,969,hsa-mir-146a,Head and Neck Neoplasms
+969,970,hsa-mir-146b,Head and Neck Neoplasms
+970,971,hsa-mir-150,Head and Neck Neoplasms
+971,972,hsa-mir-181d,Head and Neck Neoplasms
+972,973,hsa-mir-18a,Head and Neck Neoplasms
+973,974,hsa-mir-193b,Head and Neck Neoplasms
+974,975,hsa-mir-195,Head and Neck Neoplasms
+975,976,hsa-mir-196a,Head and Neck Neoplasms
+976,977,hsa-mir-196b,Head and Neck Neoplasms
+977,978,hsa-mir-199a,Head and Neck Neoplasms
+978,979,hsa-mir-199b,Head and Neck Neoplasms
+979,980,hsa-mir-203,Head and Neck Neoplasms
+980,981,hsa-mir-206,Head and Neck Neoplasms
+981,982,hsa-mir-21,Head and Neck Neoplasms
+982,983,hsa-mir-214,Head and Neck Neoplasms
+983,984,hsa-mir-221,Head and Neck Neoplasms
+984,985,hsa-mir-223,Head and Neck Neoplasms
+985,986,hsa-mir-29c,Head and Neck Neoplasms
+986,987,hsa-mir-31,Head and Neck Neoplasms
+987,988,hsa-mir-34a,Head and Neck Neoplasms
+988,989,hsa-mir-375,Head and Neck Neoplasms
+989,990,hsa-mir-451,Head and Neck Neoplasms
+990,991,hsa-mir-486,Head and Neck Neoplasms
+991,992,hsa-mir-491,Head and Neck Neoplasms
+992,993,hsa-mir-99a,Head and Neck Neoplasms
+993,994,hsa-let-7a,"Carcinoma, Hepatocellular"
+994,995,hsa-let-7c,"Carcinoma, Hepatocellular"
+995,996,hsa-let-7e,"Carcinoma, Hepatocellular"
+996,997,hsa-let-7i,"Carcinoma, Hepatocellular"
+997,998,hsa-mir-100,"Carcinoma, Hepatocellular"
+998,999,hsa-mir-101,"Carcinoma, Hepatocellular"
+999,1000,hsa-mir-106a,"Carcinoma, Hepatocellular"
+1000,1001,hsa-mir-106b,"Carcinoma, Hepatocellular"
+1001,1002,hsa-mir-107,"Carcinoma, Hepatocellular"
+1002,1003,hsa-mir-10a,"Carcinoma, Hepatocellular"
+1003,1004,hsa-mir-122,"Carcinoma, Hepatocellular"
+1004,1005,hsa-mir-125a,"Carcinoma, Hepatocellular"
+1005,1006,hsa-mir-126,"Carcinoma, Hepatocellular"
+1006,1007,hsa-mir-130a,"Carcinoma, Hepatocellular"
+1007,1008,hsa-mir-130b,"Carcinoma, Hepatocellular"
+1008,1009,hsa-mir-134,"Carcinoma, Hepatocellular"
+1009,1010,hsa-mir-143,"Carcinoma, Hepatocellular"
+1010,1011,hsa-mir-145,"Carcinoma, Hepatocellular"
+1011,1012,hsa-mir-146a,"Carcinoma, Hepatocellular"
+1012,1013,hsa-mir-148a,"Carcinoma, Hepatocellular"
+1013,1014,hsa-mir-148b,"Carcinoma, Hepatocellular"
+1014,1015,hsa-mir-150,"Carcinoma, Hepatocellular"
+1015,1016,hsa-mir-155,"Carcinoma, Hepatocellular"
+1016,1017,hsa-mir-15a,"Carcinoma, Hepatocellular"
+1017,1018,hsa-mir-15b,"Carcinoma, Hepatocellular"
+1018,1019,hsa-mir-16,"Carcinoma, Hepatocellular"
+1019,1020,hsa-mir-181a,"Carcinoma, Hepatocellular"
+1020,1021,hsa-mir-181b,"Carcinoma, Hepatocellular"
+1021,1022,hsa-mir-181d,"Carcinoma, Hepatocellular"
+1022,1023,hsa-mir-185,"Carcinoma, Hepatocellular"
+1023,1024,hsa-mir-188,"Carcinoma, Hepatocellular"
+1024,1025,hsa-mir-18a,"Carcinoma, Hepatocellular"
+1025,1026,hsa-mir-191,"Carcinoma, Hepatocellular"
+1026,1027,hsa-mir-193a,"Carcinoma, Hepatocellular"
+1027,1028,hsa-mir-194,"Carcinoma, Hepatocellular"
+1028,1029,hsa-mir-195,"Carcinoma, Hepatocellular"
+1029,1030,hsa-mir-199a,"Carcinoma, Hepatocellular"
+1030,1031,hsa-mir-19a,"Carcinoma, Hepatocellular"
+1031,1032,hsa-mir-200a,"Carcinoma, Hepatocellular"
+1032,1033,hsa-mir-202,"Carcinoma, Hepatocellular"
+1033,1034,hsa-mir-20a,"Carcinoma, Hepatocellular"
+1034,1035,hsa-mir-20b,"Carcinoma, Hepatocellular"
+1035,1036,hsa-mir-210,"Carcinoma, Hepatocellular"
+1036,1037,hsa-mir-214,"Carcinoma, Hepatocellular"
+1037,1038,hsa-mir-22,"Carcinoma, Hepatocellular"
+1038,1039,hsa-mir-221,"Carcinoma, Hepatocellular"
+1039,1040,hsa-mir-222,"Carcinoma, Hepatocellular"
+1040,1041,hsa-mir-224,"Carcinoma, Hepatocellular"
+1041,1042,hsa-mir-23a,"Carcinoma, Hepatocellular"
+1042,1043,hsa-mir-25,"Carcinoma, Hepatocellular"
+1043,1044,hsa-mir-26a,"Carcinoma, Hepatocellular"
+1044,1045,hsa-mir-26b,"Carcinoma, Hepatocellular"
+1045,1046,hsa-mir-27b,"Carcinoma, Hepatocellular"
+1046,1047,hsa-mir-28,"Carcinoma, Hepatocellular"
+1047,1048,hsa-mir-296,"Carcinoma, Hepatocellular"
+1048,1049,hsa-mir-29a,"Carcinoma, Hepatocellular"
+1049,1050,hsa-mir-29b,"Carcinoma, Hepatocellular"
+1050,1051,hsa-mir-29c,"Carcinoma, Hepatocellular"
+1051,1052,hsa-mir-30d,"Carcinoma, Hepatocellular"
+1052,1053,hsa-mir-331,"Carcinoma, Hepatocellular"
+1053,1054,hsa-mir-342,"Carcinoma, Hepatocellular"
+1054,1055,hsa-mir-34a,"Carcinoma, Hepatocellular"
+1055,1056,hsa-mir-422a,"Carcinoma, Hepatocellular"
+1056,1057,hsa-mir-423,"Carcinoma, Hepatocellular"
+1057,1058,hsa-mir-424,"Carcinoma, Hepatocellular"
+1058,1059,hsa-mir-451,"Carcinoma, Hepatocellular"
+1059,1060,hsa-mir-497,"Carcinoma, Hepatocellular"
+1060,1061,hsa-mir-520b,"Carcinoma, Hepatocellular"
+1061,1062,hsa-mir-520d,"Carcinoma, Hepatocellular"
+1062,1063,hsa-mir-520f,"Carcinoma, Hepatocellular"
+1063,1064,hsa-mir-523,"Carcinoma, Hepatocellular"
+1064,1065,hsa-mir-92,"Carcinoma, Hepatocellular"
+1065,1066,hsa-mir-93,"Carcinoma, Hepatocellular"
+1066,1067,hsa-mir-98,"Carcinoma, Hepatocellular"
+1067,1068,hsa-mir-99a,"Carcinoma, Hepatocellular"
+1068,1069,hsa-mir-99b,"Carcinoma, Hepatocellular"
+1069,1070,hsa-let-7a,Lung Neoplasms
+1070,1071,hsa-let-7c,Lung Neoplasms
+1071,1072,hsa-let-7d,Lung Neoplasms
+1072,1073,hsa-let-7g,Lung Neoplasms
+1073,1074,hsa-let-7i,Lung Neoplasms
+1074,1075,hsa-mir-1,Lung Neoplasms
+1075,1076,hsa-mir-100,Lung Neoplasms
+1076,1077,hsa-mir-101,Lung Neoplasms
+1077,1078,hsa-mir-106a,Lung Neoplasms
+1078,1079,hsa-mir-106b,Lung Neoplasms
+1079,1080,hsa-mir-107,Lung Neoplasms
+1080,1081,hsa-mir-10a,Lung Neoplasms
+1081,1082,hsa-mir-10b,Lung Neoplasms
+1082,1083,hsa-mir-125a,Lung Neoplasms
+1083,1084,hsa-mir-126,Lung Neoplasms
+1084,1085,hsa-mir-127,Lung Neoplasms
+1085,1086,hsa-mir-128,Lung Neoplasms
+1086,1087,hsa-mir-130a,Lung Neoplasms
+1087,1088,hsa-mir-130b,Lung Neoplasms
+1088,1089,hsa-mir-132,Lung Neoplasms
+1089,1090,hsa-mir-133a,Lung Neoplasms
+1090,1091,hsa-mir-133b,Lung Neoplasms
+1091,1092,hsa-mir-135a,Lung Neoplasms
+1092,1093,hsa-mir-135b,Lung Neoplasms
+1093,1094,hsa-mir-136,Lung Neoplasms
+1094,1095,hsa-mir-137,Lung Neoplasms
+1095,1096,hsa-mir-139,Lung Neoplasms
+1096,1097,hsa-mir-140,Lung Neoplasms
+1097,1098,hsa-mir-141,Lung Neoplasms
+1098,1099,hsa-mir-143,Lung Neoplasms
+1099,1100,hsa-mir-144,Lung Neoplasms
+1100,1101,hsa-mir-145,Lung Neoplasms
+1101,1102,hsa-mir-146a,Lung Neoplasms
+1102,1103,hsa-mir-148a,Lung Neoplasms
+1103,1104,hsa-mir-148b,Lung Neoplasms
+1104,1105,hsa-mir-149,Lung Neoplasms
+1105,1106,hsa-mir-150,Lung Neoplasms
+1106,1107,hsa-mir-152,Lung Neoplasms
+1107,1108,hsa-mir-153,Lung Neoplasms
+1108,1109,hsa-mir-154,Lung Neoplasms
+1109,1110,hsa-mir-155,Lung Neoplasms
+1110,1111,hsa-mir-15a,Lung Neoplasms
+1111,1112,hsa-mir-15b,Lung Neoplasms
+1112,1113,hsa-mir-16,Lung Neoplasms
+1113,1114,hsa-mir-181a,Lung Neoplasms
+1114,1115,hsa-mir-181b,Lung Neoplasms
+1115,1116,hsa-mir-181c,Lung Neoplasms
+1116,1117,hsa-mir-181d,Lung Neoplasms
+1117,1118,hsa-mir-182,Lung Neoplasms
+1118,1119,hsa-mir-183,Lung Neoplasms
+1119,1120,hsa-mir-185,Lung Neoplasms
+1120,1121,hsa-mir-186,Lung Neoplasms
+1121,1122,hsa-mir-187,Lung Neoplasms
+1122,1123,hsa-mir-189,Lung Neoplasms
+1123,1124,hsa-mir-18a,Lung Neoplasms
+1124,1125,hsa-mir-192,Lung Neoplasms
+1125,1126,hsa-mir-193b,Lung Neoplasms
+1126,1127,hsa-mir-195,Lung Neoplasms
+1127,1128,hsa-mir-196a,Lung Neoplasms
+1128,1129,hsa-mir-196b,Lung Neoplasms
+1129,1130,hsa-mir-197,Lung Neoplasms
+1130,1131,hsa-mir-198,Lung Neoplasms
+1131,1132,hsa-mir-199a,Lung Neoplasms
+1132,1133,hsa-mir-199b,Lung Neoplasms
+1133,1134,hsa-mir-19a,Lung Neoplasms
+1134,1135,hsa-mir-19b,Lung Neoplasms
+1135,1136,hsa-mir-200a,Lung Neoplasms
+1136,1137,hsa-mir-200b,Lung Neoplasms
+1137,1138,hsa-mir-200c,Lung Neoplasms
+1138,1139,hsa-mir-202,Lung Neoplasms
+1139,1140,hsa-mir-203,Lung Neoplasms
+1140,1141,hsa-mir-205,Lung Neoplasms
+1141,1142,hsa-mir-20a,Lung Neoplasms
+1142,1143,hsa-mir-20b,Lung Neoplasms
+1143,1144,hsa-mir-21,Lung Neoplasms
+1144,1145,hsa-mir-210,Lung Neoplasms
+1145,1146,hsa-mir-214,Lung Neoplasms
+1146,1147,hsa-mir-215,Lung Neoplasms
+1147,1148,hsa-mir-218,Lung Neoplasms
+1148,1149,hsa-mir-221,Lung Neoplasms
+1149,1150,hsa-mir-222,Lung Neoplasms
+1150,1151,hsa-mir-224,Lung Neoplasms
+1151,1152,hsa-mir-23a,Lung Neoplasms
+1152,1153,hsa-mir-23b,Lung Neoplasms
+1153,1154,hsa-mir-25,Lung Neoplasms
+1154,1155,hsa-mir-26a,Lung Neoplasms
+1155,1156,hsa-mir-26b,Lung Neoplasms
+1156,1157,hsa-mir-27a,Lung Neoplasms
+1157,1158,hsa-mir-28,Lung Neoplasms
+1158,1159,hsa-mir-296,Lung Neoplasms
+1159,1160,hsa-mir-29a,Lung Neoplasms
+1160,1161,hsa-mir-29b,Lung Neoplasms
+1161,1162,hsa-mir-29c,Lung Neoplasms
+1162,1163,hsa-mir-302b,Lung Neoplasms
+1163,1164,hsa-mir-302c,Lung Neoplasms
+1164,1165,hsa-mir-302d,Lung Neoplasms
+1165,1166,hsa-mir-30b,Lung Neoplasms
+1166,1167,hsa-mir-30d,Lung Neoplasms
+1167,1168,hsa-mir-31,Lung Neoplasms
+1168,1169,hsa-mir-325,Lung Neoplasms
+1169,1170,hsa-mir-328,Lung Neoplasms
+1170,1171,hsa-mir-330,Lung Neoplasms
+1171,1172,hsa-mir-338,Lung Neoplasms
+1172,1173,hsa-mir-339,Lung Neoplasms
+1173,1174,hsa-mir-342,Lung Neoplasms
+1174,1175,hsa-mir-345,Lung Neoplasms
+1175,1176,hsa-mir-346,Lung Neoplasms
+1176,1177,hsa-mir-34a,Lung Neoplasms
+1177,1178,hsa-mir-34b,Lung Neoplasms
+1178,1179,hsa-mir-34c,Lung Neoplasms
+1179,1180,hsa-mir-361,Lung Neoplasms
+1180,1181,hsa-mir-362,Lung Neoplasms
+1181,1182,hsa-mir-363,Lung Neoplasms
+1182,1183,hsa-mir-373,Lung Neoplasms
+1183,1184,hsa-mir-375,Lung Neoplasms
+1184,1185,hsa-mir-381,Lung Neoplasms
+1185,1186,hsa-mir-383,Lung Neoplasms
+1186,1187,hsa-mir-422a,Lung Neoplasms
+1187,1188,hsa-mir-425,Lung Neoplasms
+1188,1189,hsa-mir-429,Lung Neoplasms
+1189,1190,hsa-mir-432,Lung Neoplasms
+1190,1191,hsa-mir-451,Lung Neoplasms
+1191,1192,hsa-mir-483,Lung Neoplasms
+1192,1193,hsa-mir-484,Lung Neoplasms
+1193,1194,hsa-mir-486,Lung Neoplasms
+1194,1195,hsa-mir-488,Lung Neoplasms
+1195,1196,hsa-mir-492,Lung Neoplasms
+1196,1197,hsa-mir-494,Lung Neoplasms
+1197,1198,hsa-mir-498,Lung Neoplasms
+1198,1199,hsa-mir-501,Lung Neoplasms
+1199,1200,hsa-mir-503,Lung Neoplasms
+1200,1201,hsa-mir-505,Lung Neoplasms
+1201,1202,hsa-mir-507,Lung Neoplasms
+1202,1203,hsa-mir-508,Lung Neoplasms
+1203,1204,hsa-mir-518a,Lung Neoplasms
+1204,1205,hsa-mir-518c,Lung Neoplasms
+1205,1206,hsa-mir-519a,Lung Neoplasms
+1206,1207,hsa-mir-519b,Lung Neoplasms
+1207,1208,hsa-mir-519c,Lung Neoplasms
+1208,1209,hsa-mir-519e,Lung Neoplasms
+1209,1210,hsa-mir-520d,Lung Neoplasms
+1210,1211,hsa-mir-520f,Lung Neoplasms
+1211,1212,hsa-mir-524,Lung Neoplasms
+1212,1213,hsa-mir-526b,Lung Neoplasms
+1213,1214,hsa-mir-527,Lung Neoplasms
+1214,1215,hsa-mir-539,Lung Neoplasms
+1215,1216,hsa-mir-92,Lung Neoplasms
+1216,1217,hsa-mir-93,Lung Neoplasms
+1217,1218,hsa-mir-96,Lung Neoplasms
+1218,1219,hsa-mir-98,Lung Neoplasms
+1219,1220,hsa-mir-99a,Lung Neoplasms
+1220,1221,hsa-let-7a,Lymphoma
+1221,1222,hsa-let-7b,Lymphoma
+1222,1223,hsa-let-7c,Lymphoma
+1223,1224,hsa-let-7d,Lymphoma
+1224,1225,hsa-let-7e,Lymphoma
+1225,1226,hsa-let-7f,Lymphoma
+1226,1227,hsa-let-7g,Lymphoma
+1227,1228,hsa-let-7i,Lymphoma
+1228,1229,hsa-mir-1,Lymphoma
+1229,1230,hsa-mir-100,Lymphoma
+1230,1231,hsa-mir-101,Lymphoma
+1231,1232,hsa-mir-105,Lymphoma
+1232,1233,hsa-mir-106a,Lymphoma
+1233,1234,hsa-mir-106b,Lymphoma
+1234,1235,hsa-mir-107,Lymphoma
+1235,1236,hsa-mir-10a,Lymphoma
+1236,1237,hsa-mir-10b,Lymphoma
+1237,1238,hsa-mir-122,Lymphoma
+1238,1239,hsa-mir-124,Lymphoma
+1239,1240,hsa-mir-125a,Lymphoma
+1240,1241,hsa-mir-126,Lymphoma
+1241,1242,hsa-mir-127,Lymphoma
+1242,1243,hsa-mir-128,Lymphoma
+1243,1244,hsa-mir-129,Lymphoma
+1244,1245,hsa-mir-130a,Lymphoma
+1245,1246,hsa-mir-130b,Lymphoma
+1246,1247,hsa-mir-132,Lymphoma
+1247,1248,hsa-mir-133a,Lymphoma
+1248,1249,hsa-mir-133b,Lymphoma
+1249,1250,hsa-mir-134,Lymphoma
+1250,1251,hsa-mir-135b,Lymphoma
+1251,1252,hsa-mir-136,Lymphoma
+1252,1253,hsa-mir-137,Lymphoma
+1253,1254,hsa-mir-138,Lymphoma
+1254,1255,hsa-mir-139,Lymphoma
+1255,1256,hsa-mir-140,Lymphoma
+1256,1257,hsa-mir-141,Lymphoma
+1257,1258,hsa-mir-143,Lymphoma
+1258,1259,hsa-mir-145,Lymphoma
+1259,1260,hsa-mir-146a,Lymphoma
+1260,1261,hsa-mir-148a,Lymphoma
+1261,1262,hsa-mir-148b,Lymphoma
+1262,1263,hsa-mir-149,Lymphoma
+1263,1264,hsa-mir-150,Lymphoma
+1264,1265,hsa-mir-152,Lymphoma
+1265,1266,hsa-mir-154,Lymphoma
+1266,1267,hsa-mir-155,Lymphoma
+1267,1268,hsa-mir-15a,Lymphoma
+1268,1269,hsa-mir-15b,Lymphoma
+1269,1270,hsa-mir-16,Lymphoma
+1270,1271,hsa-mir-17,Lymphoma
+1271,1272,hsa-mir-181a,Lymphoma
+1272,1273,hsa-mir-181b,Lymphoma
+1273,1274,hsa-mir-181c,Lymphoma
+1274,1275,hsa-mir-181d,Lymphoma
+1275,1276,hsa-mir-182,Lymphoma
+1276,1277,hsa-mir-183,Lymphoma
+1277,1278,hsa-mir-184,Lymphoma
+1278,1279,hsa-mir-185,Lymphoma
+1279,1280,hsa-mir-186,Lymphoma
+1280,1281,hsa-mir-187,Lymphoma
+1281,1282,hsa-mir-188,Lymphoma
+1282,1283,hsa-mir-189,Lymphoma
+1283,1284,hsa-mir-18a,Lymphoma
+1284,1285,hsa-mir-18b,Lymphoma
+1285,1286,hsa-mir-191,Lymphoma
+1286,1287,hsa-mir-192,Lymphoma
+1287,1288,hsa-mir-194,Lymphoma
+1288,1289,hsa-mir-195,Lymphoma
+1289,1290,hsa-mir-196a,Lymphoma
+1290,1291,hsa-mir-197,Lymphoma
+1291,1292,hsa-mir-198,Lymphoma
+1292,1293,hsa-mir-199a,Lymphoma
+1293,1294,hsa-mir-199b,Lymphoma
+1294,1295,hsa-mir-19a,Lymphoma
+1295,1296,hsa-mir-19b,Lymphoma
+1296,1297,hsa-mir-200a,Lymphoma
+1297,1298,hsa-mir-200b,Lymphoma
+1298,1299,hsa-mir-200c,Lymphoma
+1299,1300,hsa-mir-203,Lymphoma
+1300,1301,hsa-mir-204,Lymphoma
+1301,1302,hsa-mir-205,Lymphoma
+1302,1303,hsa-mir-206,Lymphoma
+1303,1304,hsa-mir-20a,Lymphoma
+1304,1305,hsa-mir-20b,Lymphoma
+1305,1306,hsa-mir-21,Lymphoma
+1306,1307,hsa-mir-210,Lymphoma
+1307,1308,hsa-mir-211,Lymphoma
+1308,1309,hsa-mir-212,Lymphoma
+1309,1310,hsa-mir-214,Lymphoma
+1310,1311,hsa-mir-215,Lymphoma
+1311,1312,hsa-mir-217,Lymphoma
+1312,1313,hsa-mir-218,Lymphoma
+1313,1314,hsa-mir-219,Lymphoma
+1314,1315,hsa-mir-22,Lymphoma
+1315,1316,hsa-mir-221,Lymphoma
+1316,1317,hsa-mir-222,Lymphoma
+1317,1318,hsa-mir-223,Lymphoma
+1318,1319,hsa-mir-224,Lymphoma
+1319,1320,hsa-mir-23a,Lymphoma
+1320,1321,hsa-mir-23b,Lymphoma
+1321,1322,hsa-mir-24,Lymphoma
+1322,1323,hsa-mir-25,Lymphoma
+1323,1324,hsa-mir-26a,Lymphoma
+1324,1325,hsa-mir-26b,Lymphoma
+1325,1326,hsa-mir-27a,Lymphoma
+1326,1327,hsa-mir-27b,Lymphoma
+1327,1328,hsa-mir-28,Lymphoma
+1328,1329,hsa-mir-296,Lymphoma
+1329,1330,hsa-mir-299,Lymphoma
+1330,1331,hsa-mir-29a,Lymphoma
+1331,1332,hsa-mir-29b,Lymphoma
+1332,1333,hsa-mir-29c,Lymphoma
+1333,1334,hsa-mir-302a,Lymphoma
+1334,1335,hsa-mir-302c,Lymphoma
+1335,1336,hsa-mir-30a,Lymphoma
+1336,1337,hsa-mir-30b,Lymphoma
+1337,1338,hsa-mir-30c,Lymphoma
+1338,1339,hsa-mir-30d,Lymphoma
+1339,1340,hsa-mir-30e,Lymphoma
+1340,1341,hsa-mir-31,Lymphoma
+1341,1342,hsa-mir-32,Lymphoma
+1342,1343,hsa-mir-326,Lymphoma
+1343,1344,hsa-mir-328,Lymphoma
+1344,1345,hsa-mir-330,Lymphoma
+1345,1346,hsa-mir-335,Lymphoma
+1346,1347,hsa-mir-337,Lymphoma
+1347,1348,hsa-mir-338,Lymphoma
+1348,1349,hsa-mir-339,Lymphoma
+1349,1350,hsa-mir-33a,Lymphoma
+1350,1351,hsa-mir-33b,Lymphoma
+1351,1352,hsa-mir-340,Lymphoma
+1352,1353,hsa-mir-342,Lymphoma
+1353,1354,hsa-mir-34a,Lymphoma
+1354,1355,hsa-mir-34b,Lymphoma
+1355,1356,hsa-mir-363,Lymphoma
+1356,1357,hsa-mir-369,Lymphoma
+1357,1358,hsa-mir-373,Lymphoma
+1358,1359,hsa-mir-374b,Lymphoma
+1359,1360,hsa-mir-422a,Lymphoma
+1360,1361,hsa-mir-423,Lymphoma
+1361,1362,hsa-mir-424,Lymphoma
+1362,1363,hsa-mir-425,Lymphoma
+1363,1364,hsa-mir-451,Lymphoma
+1364,1365,hsa-mir-454,Lymphoma
+1365,1366,hsa-mir-484,Lymphoma
+1366,1367,hsa-mir-489,Lymphoma
+1367,1368,hsa-mir-494,Lymphoma
+1368,1369,hsa-mir-497,Lymphoma
+1369,1370,hsa-mir-503,Lymphoma
+1370,1371,hsa-mir-584,Lymphoma
+1371,1372,hsa-mir-624,Lymphoma
+1372,1373,hsa-mir-625,Lymphoma
+1373,1374,hsa-mir-629,Lymphoma
+1374,1375,hsa-mir-638,Lymphoma
+1375,1376,hsa-mir-7,Lymphoma
+1376,1377,hsa-mir-744,Lymphoma
+1377,1378,hsa-mir-765,Lymphoma
+1378,1379,hsa-mir-9,Lymphoma
+1379,1380,hsa-mir-92,Lymphoma
+1380,1381,hsa-mir-92a,Lymphoma
+1381,1382,hsa-mir-92b,Lymphoma
+1382,1383,hsa-mir-93,Lymphoma
+1383,1384,hsa-mir-933,Lymphoma
+1384,1385,hsa-mir-95,Lymphoma
+1385,1386,hsa-mir-96,Lymphoma
+1386,1387,hsa-mir-98,Lymphoma
+1387,1388,hsa-mir-99a,Lymphoma
+1388,1389,hsa-mir-99b,Lymphoma
+1389,1390,hsa-let-7a,Medulloblastoma
+1390,1391,hsa-let-7b,Medulloblastoma
+1391,1392,hsa-let-7d,Medulloblastoma
+1392,1393,hsa-let-7e,Medulloblastoma
+1393,1394,hsa-let-7f,Medulloblastoma
+1394,1395,hsa-let-7g,Medulloblastoma
+1395,1396,hsa-let-7i,Medulloblastoma
+1396,1397,hsa-mir-100,Medulloblastoma
+1397,1398,hsa-mir-106a,Medulloblastoma
+1398,1399,hsa-mir-106b,Medulloblastoma
+1399,1400,hsa-mir-107,Medulloblastoma
+1400,1401,hsa-mir-10b,Medulloblastoma
+1401,1402,hsa-mir-124a,Medulloblastoma
+1402,1403,hsa-mir-125a,Medulloblastoma
+1403,1404,hsa-mir-125b,Medulloblastoma
+1404,1405,hsa-mir-127,Medulloblastoma
+1405,1406,hsa-mir-128,Medulloblastoma
+1406,1407,hsa-mir-129,Medulloblastoma
+1407,1408,hsa-mir-132,Medulloblastoma
+1408,1409,hsa-mir-133b,Medulloblastoma
+1409,1410,hsa-mir-134,Medulloblastoma
+1410,1411,hsa-mir-135a,Medulloblastoma
+1411,1412,hsa-mir-135b,Medulloblastoma
+1412,1413,hsa-mir-137,Medulloblastoma
+1413,1414,hsa-mir-138,Medulloblastoma
+1414,1415,hsa-mir-143,Medulloblastoma
+1415,1416,hsa-mir-145,Medulloblastoma
+1416,1417,hsa-mir-148a,Medulloblastoma
+1417,1418,hsa-mir-149,Medulloblastoma
+1418,1419,hsa-mir-150,Medulloblastoma
+1419,1420,hsa-mir-153,Medulloblastoma
+1420,1421,hsa-mir-154,Medulloblastoma
+1421,1422,hsa-mir-155,Medulloblastoma
+1422,1423,hsa-mir-17,Medulloblastoma
+1423,1424,hsa-mir-181b,Medulloblastoma
+1424,1425,hsa-mir-181c,Medulloblastoma
+1425,1426,hsa-mir-187,Medulloblastoma
+1426,1427,hsa-mir-18a,Medulloblastoma
+1427,1428,hsa-mir-191,Medulloblastoma
+1428,1429,hsa-mir-192,Medulloblastoma
+1429,1430,hsa-mir-194,Medulloblastoma
+1430,1431,hsa-mir-199b,Medulloblastoma
+1431,1432,hsa-mir-19a,Medulloblastoma
+1432,1433,hsa-mir-203,Medulloblastoma
+1433,1434,hsa-mir-20a,Medulloblastoma
+1434,1435,hsa-mir-21,Medulloblastoma
+1435,1436,hsa-mir-212,Medulloblastoma
+1436,1437,hsa-mir-219,Medulloblastoma
+1437,1438,hsa-mir-22,Medulloblastoma
+1438,1439,hsa-mir-221,Medulloblastoma
+1439,1440,hsa-mir-25,Medulloblastoma
+1440,1441,hsa-mir-26a,Medulloblastoma
+1441,1442,hsa-mir-26b,Medulloblastoma
+1442,1443,hsa-mir-29a,Medulloblastoma
+1443,1444,hsa-mir-29b,Medulloblastoma
+1444,1445,hsa-mir-29c,Medulloblastoma
+1445,1446,hsa-mir-30b,Medulloblastoma
+1446,1447,hsa-mir-30c,Medulloblastoma
+1447,1448,hsa-mir-31,Medulloblastoma
+1448,1449,hsa-mir-324,Medulloblastoma
+1449,1450,hsa-mir-326,Medulloblastoma
+1450,1451,hsa-mir-328,Medulloblastoma
+1451,1452,hsa-mir-330,Medulloblastoma
+1452,1453,hsa-mir-331,Medulloblastoma
+1453,1454,hsa-mir-345,Medulloblastoma
+1454,1455,hsa-mir-346,Medulloblastoma
+1455,1456,hsa-mir-361,Medulloblastoma
+1456,1457,hsa-mir-370,Medulloblastoma
+1457,1458,hsa-mir-372,Medulloblastoma
+1458,1459,hsa-mir-381,Medulloblastoma
+1459,1460,hsa-mir-382,Medulloblastoma
+1460,1461,hsa-mir-383,Medulloblastoma
+1461,1462,hsa-mir-425,Medulloblastoma
+1462,1463,hsa-mir-7,Medulloblastoma
+1463,1464,hsa-mir-9,Medulloblastoma
+1464,1465,hsa-mir-98,Medulloblastoma
+1465,1466,hsa-mir-200a,Meningioma
+1466,1467,hsa-mir-373,Meningioma
+1467,1468,hsa-mir-575,Meningioma
+1468,1469,hsa-let-7b,Meningioma
+1469,1470,hsa-let-7d,Meningioma
+1470,1471,hsa-let-7g,Meningioma
+1471,1472,hsa-let-7i,Meningioma
+1472,1473,hsa-mir-100,Meningioma
+1473,1474,hsa-mir-106a,Meningioma
+1474,1475,hsa-mir-106b,Meningioma
+1475,1476,hsa-mir-125a,Meningioma
+1476,1477,hsa-mir-125b,Meningioma
+1477,1478,hsa-mir-181a,Meningioma
+1478,1479,hsa-mir-19b,Meningioma
+1479,1480,hsa-mir-23b,Meningioma
+1480,1481,hsa-mir-26a,Meningioma
+1481,1482,hsa-mir-29a,Meningioma
+1482,1483,hsa-mir-335,Meningioma
+1483,1484,hsa-mir-370,Meningioma
+1484,1485,hsa-mir-654,Meningioma
+1485,1486,hsa-mir-98,Meningioma
+1486,1487,hsa-mir-10a,Multiple Myeloma
+1487,1488,hsa-mir-125a,Multiple Myeloma
+1488,1489,hsa-mir-130a,Multiple Myeloma
+1489,1490,hsa-mir-133b,Multiple Myeloma
+1490,1491,hsa-mir-135b,Multiple Myeloma
+1491,1492,hsa-mir-151,Multiple Myeloma
+1492,1493,hsa-mir-155,Multiple Myeloma
+1493,1494,hsa-mir-15a,Multiple Myeloma
+1494,1495,hsa-mir-182,Multiple Myeloma
+1495,1496,hsa-mir-193a,Multiple Myeloma
+1496,1497,hsa-mir-196a,Multiple Myeloma
+1497,1498,hsa-mir-196b,Multiple Myeloma
+1498,1499,hsa-mir-203,Multiple Myeloma
+1499,1500,hsa-mir-214,Multiple Myeloma
+1500,1501,hsa-mir-218,Multiple Myeloma
+1501,1502,hsa-mir-224,Multiple Myeloma
+1502,1503,hsa-mir-362,Multiple Myeloma
+1503,1504,hsa-mir-375,Multiple Myeloma
+1504,1505,hsa-mir-379,Multiple Myeloma
+1505,1506,hsa-mir-451,Multiple Myeloma
+1506,1507,hsa-mir-486,Multiple Myeloma
+1507,1508,hsa-mir-501,Multiple Myeloma
+1508,1509,hsa-mir-629,Multiple Myeloma
+1509,1510,hsa-mir-650,Multiple Myeloma
+1510,1511,hsa-mir-95,Multiple Myeloma
+1511,1512,hsa-let-7a,Prostate Neoplasms
+1512,1513,hsa-let-7b,Prostate Neoplasms
+1513,1514,hsa-let-7c,Prostate Neoplasms
+1514,1515,hsa-let-7d,Prostate Neoplasms
+1515,1516,hsa-let-7e,Prostate Neoplasms
+1516,1517,hsa-let-7f,Prostate Neoplasms
+1517,1518,hsa-let-7g,Prostate Neoplasms
+1518,1519,hsa-let-7i,Prostate Neoplasms
+1519,1520,hsa-mir-1,Prostate Neoplasms
+1520,1521,hsa-mir-100,Prostate Neoplasms
+1521,1522,hsa-mir-101,Prostate Neoplasms
+1522,1523,hsa-mir-105,Prostate Neoplasms
+1523,1524,hsa-mir-106a,Prostate Neoplasms
+1524,1525,hsa-mir-106b,Prostate Neoplasms
+1525,1526,hsa-mir-10a,Prostate Neoplasms
+1526,1527,hsa-mir-10b,Prostate Neoplasms
+1527,1528,hsa-mir-124,Prostate Neoplasms
+1528,1529,hsa-mir-125a,Prostate Neoplasms
+1529,1530,hsa-mir-125b,Prostate Neoplasms
+1530,1531,hsa-mir-126,Prostate Neoplasms
+1531,1532,hsa-mir-127,Prostate Neoplasms
+1532,1533,hsa-mir-128,Prostate Neoplasms
+1533,1534,hsa-mir-129,Prostate Neoplasms
+1534,1535,hsa-mir-130a,Prostate Neoplasms
+1535,1536,hsa-mir-130b,Prostate Neoplasms
+1536,1537,hsa-mir-132,Prostate Neoplasms
+1537,1538,hsa-mir-133a,Prostate Neoplasms
+1538,1539,hsa-mir-133b,Prostate Neoplasms
+1539,1540,hsa-mir-135b,Prostate Neoplasms
+1540,1541,hsa-mir-136,Prostate Neoplasms
+1541,1542,hsa-mir-137,Prostate Neoplasms
+1542,1543,hsa-mir-138,Prostate Neoplasms
+1543,1544,hsa-mir-140,Prostate Neoplasms
+1544,1545,hsa-mir-143,Prostate Neoplasms
+1545,1546,hsa-mir-144,Prostate Neoplasms
+1546,1547,hsa-mir-145,Prostate Neoplasms
+1547,1548,hsa-mir-149,Prostate Neoplasms
+1548,1549,hsa-mir-150,Prostate Neoplasms
+1549,1550,hsa-mir-152,Prostate Neoplasms
+1550,1551,hsa-mir-153,Prostate Neoplasms
+1551,1552,hsa-mir-154,Prostate Neoplasms
+1552,1553,hsa-mir-155,Prostate Neoplasms
+1553,1554,hsa-mir-15a,Prostate Neoplasms
+1554,1555,hsa-mir-15b,Prostate Neoplasms
+1555,1556,hsa-mir-16,Prostate Neoplasms
+1556,1557,hsa-mir-181a,Prostate Neoplasms
+1557,1558,hsa-mir-181b,Prostate Neoplasms
+1558,1559,hsa-mir-182,Prostate Neoplasms
+1559,1560,hsa-mir-183,Prostate Neoplasms
+1560,1561,hsa-mir-184,Prostate Neoplasms
+1561,1562,hsa-mir-186,Prostate Neoplasms
+1562,1563,hsa-mir-187,Prostate Neoplasms
+1563,1564,hsa-mir-189,Prostate Neoplasms
+1564,1565,hsa-mir-192,Prostate Neoplasms
+1565,1566,hsa-mir-194,Prostate Neoplasms
+1566,1567,hsa-mir-195,Prostate Neoplasms
+1567,1568,hsa-mir-196a,Prostate Neoplasms
+1568,1569,hsa-mir-197,Prostate Neoplasms
+1569,1570,hsa-mir-198,Prostate Neoplasms
+1570,1571,hsa-mir-199a,Prostate Neoplasms
+1571,1572,hsa-mir-199b,Prostate Neoplasms
+1572,1573,hsa-mir-19a,Prostate Neoplasms
+1573,1574,hsa-mir-19b,Prostate Neoplasms
+1574,1575,hsa-mir-200a,Prostate Neoplasms
+1575,1576,hsa-mir-200c,Prostate Neoplasms
+1576,1577,hsa-mir-204,Prostate Neoplasms
+1577,1578,hsa-mir-205,Prostate Neoplasms
+1578,1579,hsa-mir-206,Prostate Neoplasms
+1579,1580,hsa-mir-21,Prostate Neoplasms
+1580,1581,hsa-mir-211,Prostate Neoplasms
+1581,1582,hsa-mir-214,Prostate Neoplasms
+1582,1583,hsa-mir-215,Prostate Neoplasms
+1583,1584,hsa-mir-218,Prostate Neoplasms
+1584,1585,hsa-mir-219,Prostate Neoplasms
+1585,1586,hsa-mir-22,Prostate Neoplasms
+1586,1587,hsa-mir-221,Prostate Neoplasms
+1587,1588,hsa-mir-222,Prostate Neoplasms
+1588,1589,hsa-mir-223,Prostate Neoplasms
+1589,1590,hsa-mir-224,Prostate Neoplasms
+1590,1591,hsa-mir-23a,Prostate Neoplasms
+1591,1592,hsa-mir-23b,Prostate Neoplasms
+1592,1593,hsa-mir-24,Prostate Neoplasms
+1593,1594,hsa-mir-25,Prostate Neoplasms
+1594,1595,hsa-mir-26a,Prostate Neoplasms
+1595,1596,hsa-mir-26b,Prostate Neoplasms
+1596,1597,hsa-mir-27a,Prostate Neoplasms
+1597,1598,hsa-mir-27b,Prostate Neoplasms
+1598,1599,hsa-mir-28,Prostate Neoplasms
+1599,1600,hsa-mir-296,Prostate Neoplasms
+1600,1601,hsa-mir-29a,Prostate Neoplasms
+1601,1602,hsa-mir-29b,Prostate Neoplasms
+1602,1603,hsa-mir-29c,Prostate Neoplasms
+1603,1604,hsa-mir-302a,Prostate Neoplasms
+1604,1605,hsa-mir-302b,Prostate Neoplasms
+1605,1606,hsa-mir-302c,Prostate Neoplasms
+1606,1607,hsa-mir-302d,Prostate Neoplasms
+1607,1608,hsa-mir-30b,Prostate Neoplasms
+1608,1609,hsa-mir-30c,Prostate Neoplasms
+1609,1610,hsa-mir-30d,Prostate Neoplasms
+1610,1611,hsa-mir-31,Prostate Neoplasms
+1611,1612,hsa-mir-32,Prostate Neoplasms
+1612,1613,hsa-mir-325,Prostate Neoplasms
+1613,1614,hsa-mir-337,Prostate Neoplasms
+1614,1615,hsa-mir-338,Prostate Neoplasms
+1615,1616,hsa-mir-34a,Prostate Neoplasms
+1616,1617,hsa-mir-34b,Prostate Neoplasms
+1617,1618,hsa-mir-34c,Prostate Neoplasms
+1618,1619,hsa-mir-367,Prostate Neoplasms
+1619,1620,hsa-mir-369,Prostate Neoplasms
+1620,1621,hsa-mir-371,Prostate Neoplasms
+1621,1622,hsa-mir-372,Prostate Neoplasms
+1622,1623,hsa-mir-375,Prostate Neoplasms
+1623,1624,hsa-mir-7,Prostate Neoplasms
+1624,1625,hsa-mir-9,Prostate Neoplasms
+1625,1626,hsa-mir-92,Prostate Neoplasms
+1626,1627,hsa-mir-96,Prostate Neoplasms
+1627,1628,hsa-mir-98,Prostate Neoplasms
+1628,1629,hsa-mir-99a,Prostate Neoplasms
+1629,1630,hsa-mir-99b,Prostate Neoplasms
+1630,1631,hsa-let-7a,Kidney Neoplasms
+1631,1632,hsa-let-7c,Kidney Neoplasms
+1632,1633,hsa-let-7d,Kidney Neoplasms
+1633,1634,hsa-let-7f,Kidney Neoplasms
+1634,1635,hsa-let-7g,Kidney Neoplasms
+1635,1636,hsa-let-7i,Kidney Neoplasms
+1636,1637,hsa-mir-1,Kidney Neoplasms
+1637,1638,hsa-mir-100,Kidney Neoplasms
+1638,1639,hsa-mir-101,Kidney Neoplasms
+1639,1640,hsa-mir-106a,Kidney Neoplasms
+1640,1641,hsa-mir-106b,Kidney Neoplasms
+1641,1642,hsa-mir-107,Kidney Neoplasms
+1642,1643,hsa-mir-10a,Kidney Neoplasms
+1643,1644,hsa-mir-10b,Kidney Neoplasms
+1644,1645,hsa-mir-122,Kidney Neoplasms
+1645,1646,hsa-mir-124,Kidney Neoplasms
+1646,1647,hsa-mir-125a,Kidney Neoplasms
+1647,1648,hsa-mir-126,Kidney Neoplasms
+1648,1649,hsa-mir-127,Kidney Neoplasms
+1649,1650,hsa-mir-128,Kidney Neoplasms
+1650,1651,hsa-mir-129,Kidney Neoplasms
+1651,1652,hsa-mir-130a,Kidney Neoplasms
+1652,1653,hsa-mir-130b,Kidney Neoplasms
+1653,1654,hsa-mir-132,Kidney Neoplasms
+1654,1655,hsa-mir-134,Kidney Neoplasms
+1655,1656,hsa-mir-135b,Kidney Neoplasms
+1656,1657,hsa-mir-136,Kidney Neoplasms
+1657,1658,hsa-mir-138,Kidney Neoplasms
+1658,1659,hsa-mir-139,Kidney Neoplasms
+1659,1660,hsa-mir-140,Kidney Neoplasms
+1660,1661,hsa-mir-141,Kidney Neoplasms
+1661,1662,hsa-mir-143,Kidney Neoplasms
+1662,1663,hsa-mir-144,Kidney Neoplasms
+1663,1664,hsa-mir-145,Kidney Neoplasms
+1664,1665,hsa-mir-146a,Kidney Neoplasms
+1665,1666,hsa-mir-146b,Kidney Neoplasms
+1666,1667,hsa-mir-148a,Kidney Neoplasms
+1667,1668,hsa-mir-149,Kidney Neoplasms
+1668,1669,hsa-mir-150,Kidney Neoplasms
+1669,1670,hsa-mir-152,Kidney Neoplasms
+1670,1671,hsa-mir-153,Kidney Neoplasms
+1671,1672,hsa-mir-155,Kidney Neoplasms
+1672,1673,hsa-mir-15a,Kidney Neoplasms
+1673,1674,hsa-mir-15b,Kidney Neoplasms
+1674,1675,hsa-mir-16,Kidney Neoplasms
+1675,1676,hsa-mir-181a,Kidney Neoplasms
+1676,1677,hsa-mir-181b,Kidney Neoplasms
+1677,1678,hsa-mir-181c,Kidney Neoplasms
+1678,1679,hsa-mir-181d,Kidney Neoplasms
+1679,1680,hsa-mir-182,Kidney Neoplasms
+1680,1681,hsa-mir-183,Kidney Neoplasms
+1681,1682,hsa-mir-184,Kidney Neoplasms
+1682,1683,hsa-mir-185,Kidney Neoplasms
+1683,1684,hsa-mir-186,Kidney Neoplasms
+1684,1685,hsa-mir-187,Kidney Neoplasms
+1685,1686,hsa-mir-188,Kidney Neoplasms
+1686,1687,hsa-mir-18a,Kidney Neoplasms
+1687,1688,hsa-mir-18b,Kidney Neoplasms
+1688,1689,hsa-mir-191,Kidney Neoplasms
+1689,1690,hsa-mir-192,Kidney Neoplasms
+1690,1691,hsa-mir-193a,Kidney Neoplasms
+1691,1692,hsa-mir-193b,Kidney Neoplasms
+1692,1693,hsa-mir-194,Kidney Neoplasms
+1693,1694,hsa-mir-195,Kidney Neoplasms
+1694,1695,hsa-mir-196a,Kidney Neoplasms
+1695,1696,hsa-mir-196b,Kidney Neoplasms
+1696,1697,hsa-mir-197,Kidney Neoplasms
+1697,1698,hsa-mir-198,Kidney Neoplasms
+1698,1699,hsa-mir-199a,Kidney Neoplasms
+1699,1700,hsa-mir-199b,Kidney Neoplasms
+1700,1701,hsa-mir-19a,Kidney Neoplasms
+1701,1702,hsa-mir-19b,Kidney Neoplasms
+1702,1703,hsa-mir-200a,Kidney Neoplasms
+1703,1704,hsa-mir-200b,Kidney Neoplasms
+1704,1705,hsa-mir-200c,Kidney Neoplasms
+1705,1706,hsa-mir-203,Kidney Neoplasms
+1706,1707,hsa-mir-204,Kidney Neoplasms
+1707,1708,hsa-mir-206,Kidney Neoplasms
+1708,1709,hsa-mir-20a,Kidney Neoplasms
+1709,1710,hsa-mir-20b,Kidney Neoplasms
+1710,1711,hsa-mir-21,Kidney Neoplasms
+1711,1712,hsa-mir-210,Kidney Neoplasms
+1712,1713,hsa-mir-211,Kidney Neoplasms
+1713,1714,hsa-mir-212,Kidney Neoplasms
+1714,1715,hsa-mir-214,Kidney Neoplasms
+1715,1716,hsa-mir-215,Kidney Neoplasms
+1716,1717,hsa-mir-218,Kidney Neoplasms
+1717,1718,hsa-mir-22,Kidney Neoplasms
+1718,1719,hsa-mir-222,Kidney Neoplasms
+1719,1720,hsa-mir-223,Kidney Neoplasms
+1720,1721,hsa-mir-224,Kidney Neoplasms
+1721,1722,hsa-mir-23a,Kidney Neoplasms
+1722,1723,hsa-mir-23b,Kidney Neoplasms
+1723,1724,hsa-mir-24,Kidney Neoplasms
+1724,1725,hsa-mir-25,Kidney Neoplasms
+1725,1726,hsa-mir-26a,Kidney Neoplasms
+1726,1727,hsa-mir-26b,Kidney Neoplasms
+1727,1728,hsa-mir-27a,Kidney Neoplasms
+1728,1729,hsa-mir-27b,Kidney Neoplasms
+1729,1730,hsa-mir-28,Kidney Neoplasms
+1730,1731,hsa-mir-29a,Kidney Neoplasms
+1731,1732,hsa-mir-29b,Kidney Neoplasms
+1732,1733,hsa-mir-29c,Kidney Neoplasms
+1733,1734,hsa-mir-30b,Kidney Neoplasms
+1734,1735,hsa-mir-30c,Kidney Neoplasms
+1735,1736,hsa-mir-30d,Kidney Neoplasms
+1736,1737,hsa-mir-31,Kidney Neoplasms
+1737,1738,hsa-mir-329,Kidney Neoplasms
+1738,1739,hsa-mir-330,Kidney Neoplasms
+1739,1740,hsa-mir-331,Kidney Neoplasms
+1740,1741,hsa-mir-335,Kidney Neoplasms
+1741,1742,hsa-mir-338,Kidney Neoplasms
+1742,1743,hsa-mir-339,Kidney Neoplasms
+1743,1744,hsa-mir-342,Kidney Neoplasms
+1744,1745,hsa-mir-345,Kidney Neoplasms
+1745,1746,hsa-mir-346,Kidney Neoplasms
+1746,1747,hsa-mir-34a,Kidney Neoplasms
+1747,1748,hsa-mir-34b,Kidney Neoplasms
+1748,1749,hsa-mir-34c,Kidney Neoplasms
+1749,1750,hsa-mir-361,Kidney Neoplasms
+1750,1751,hsa-mir-362,Kidney Neoplasms
+1751,1752,hsa-mir-363,Kidney Neoplasms
+1752,1753,hsa-mir-370,Kidney Neoplasms
+1753,1754,hsa-mir-375,Kidney Neoplasms
+1754,1755,hsa-mir-376a,Kidney Neoplasms
+1755,1756,hsa-mir-379,Kidney Neoplasms
+1756,1757,hsa-mir-381,Kidney Neoplasms
+1757,1758,hsa-mir-382,Kidney Neoplasms
+1758,1759,hsa-mir-411,Kidney Neoplasms
+1759,1760,hsa-mir-421,Kidney Neoplasms
+1760,1761,hsa-mir-422a,Kidney Neoplasms
+1761,1762,hsa-mir-423,Kidney Neoplasms
+1762,1763,hsa-mir-424,Kidney Neoplasms
+1763,1764,hsa-mir-425,Kidney Neoplasms
+1764,1765,hsa-mir-429,Kidney Neoplasms
+1765,1766,hsa-mir-432,Kidney Neoplasms
+1766,1767,hsa-mir-433,Kidney Neoplasms
+1767,1768,hsa-mir-451,Kidney Neoplasms
+1768,1769,hsa-mir-452,Kidney Neoplasms
+1769,1770,hsa-mir-455,Kidney Neoplasms
+1770,1771,hsa-mir-483,Kidney Neoplasms
+1771,1772,hsa-mir-484,Kidney Neoplasms
+1772,1773,hsa-mir-486,Kidney Neoplasms
+1773,1774,hsa-mir-487a,Kidney Neoplasms
+1774,1775,hsa-mir-487b,Kidney Neoplasms
+1775,1776,hsa-mir-489,Kidney Neoplasms
+1776,1777,hsa-mir-491,Kidney Neoplasms
+1777,1778,hsa-mir-493,Kidney Neoplasms
+1778,1779,hsa-mir-495,Kidney Neoplasms
+1779,1780,hsa-mir-497,Kidney Neoplasms
+1780,1781,hsa-mir-498,Kidney Neoplasms
+1781,1782,hsa-mir-501,Kidney Neoplasms
+1782,1783,hsa-mir-502,Kidney Neoplasms
+1783,1784,hsa-mir-503,Kidney Neoplasms
+1784,1785,hsa-mir-504,Kidney Neoplasms
+1785,1786,hsa-mir-506,Kidney Neoplasms
+1786,1787,hsa-mir-507,Kidney Neoplasms
+1787,1788,hsa-mir-509,Kidney Neoplasms
+1788,1789,hsa-mir-510,Kidney Neoplasms
+1789,1790,hsa-mir-519e,Kidney Neoplasms
+1790,1791,hsa-mir-532,Kidney Neoplasms
+1791,1792,hsa-mir-545,Kidney Neoplasms
+1792,1793,hsa-mir-572,Kidney Neoplasms
+1793,1794,hsa-mir-574,Kidney Neoplasms
+1794,1795,hsa-mir-575,Kidney Neoplasms
+1795,1796,hsa-mir-584,Kidney Neoplasms
+1796,1797,hsa-mir-598,Kidney Neoplasms
+1797,1798,hsa-mir-615,Kidney Neoplasms
+1798,1799,hsa-mir-628,Kidney Neoplasms
+1799,1800,hsa-mir-629,Kidney Neoplasms
+1800,1801,hsa-mir-638,Kidney Neoplasms
+1801,1802,hsa-mir-652,Kidney Neoplasms
+1802,1803,hsa-mir-660,Kidney Neoplasms
+1803,1804,hsa-mir-663,Kidney Neoplasms
+1804,1805,hsa-mir-671,Kidney Neoplasms
+1805,1806,hsa-mir-7,Kidney Neoplasms
+1806,1807,hsa-mir-766,Kidney Neoplasms
+1807,1808,hsa-mir-9,Kidney Neoplasms
+1808,1809,hsa-mir-92,Kidney Neoplasms
+1809,1810,hsa-mir-92b,Kidney Neoplasms
+1810,1811,hsa-mir-93,Kidney Neoplasms
+1811,1812,hsa-mir-95,Kidney Neoplasms
+1812,1813,hsa-mir-98,Kidney Neoplasms
+1813,1814,hsa-mir-99a,Kidney Neoplasms
+1814,1815,hsa-mir-99b,Kidney Neoplasms
